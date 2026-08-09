@@ -1,0 +1,19 @@
+{
+  "matchID": 83156,
+  "matchDateTime": "2026-08-28T20:30:00",
+  "timeZoneID": "W. Europe Standard Time",
+  "leagueId": 4937,
+  "leagueName": "1. Fußball-Bundesliga 2026/2027",
+  "leagueSeason": 2026,
+  "leagueShortcut": "bl1",
+  "matchDateTimeUTC": "2026-08-28T18:30:00Z",
+  "group": {"groupName": "1. Spieltag", "groupOrderID": 1, "groupID": 50633},
+  "team1": {"teamId": 40, "teamName": "FC Bayern München", "shortName": "Bayern", "teamIconUrl": "https://upload.wikimedia.org/test.svg", "teamGroupName": null},
+  "team2": {"teamId": 16, "teamName": "VfB Stuttgart", "shortName": "Stuttgart", "teamIconUrl": "https://i.imgur.com/v0tkpNx.png", "teamGroupName": null},
+  "lastUpdateDateTime": "2026-07-03T07:35:20.9",
+  "matchIsFinished": false,
+  "matchResults": [],
+  "goals": [],
+  "location": null,
+  "numberOfViewers": null
+}

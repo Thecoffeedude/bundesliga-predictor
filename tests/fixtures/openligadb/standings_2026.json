@@ -1,0 +1,4 @@
+[
+  {"teamInfoId": 40, "teamName": "FC Bayern München", "shortName": "Bayern", "teamIconUrl": "https://upload.wikimedia.org/test.svg", "points": 0, "opponentGoals": 0, "goals": 0, "matches": 0, "won": 0, "lost": 0, "draw": 0, "goalDiff": 0},
+  {"teamInfoId": 16, "teamName": "VfB Stuttgart", "shortName": "Stuttgart", "teamIconUrl": "https://i.imgur.com/v0tkpNx.png", "points": 0, "opponentGoals": 0, "goals": 0, "matches": 0, "won": 0, "lost": 0, "draw": 0, "goalDiff": 0}
+]

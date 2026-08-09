@@ -1,0 +1,22 @@
+{
+  "matchID": 77256,
+  "matchDateTime": "2025-08-22T20:30:00",
+  "timeZoneID": "W. Europe Standard Time",
+  "leagueId": 4821,
+  "leagueName": "1. Fußball-Bundesliga 2025/2026",
+  "leagueSeason": 2025,
+  "leagueShortcut": "bl1",
+  "matchDateTimeUTC": "2025-08-22T18:30:00Z",
+  "group": {"groupName": "1. Spieltag", "groupOrderID": 1, "groupID": 47611},
+  "team1": {"teamId": 40, "teamName": "FC Bayern München", "shortName": "Bayern", "teamIconUrl": "https://upload.wikimedia.org/test.svg", "teamGroupName": null},
+  "team2": {"teamId": 1635, "teamName": "RB Leipzig", "shortName": "Leipzig", "teamIconUrl": "https://i.imgur.com/Rpwsjz1.png", "teamGroupName": null},
+  "lastUpdateDateTime": "2025-08-23T01:00:54.147",
+  "matchIsFinished": true,
+  "matchResults": [
+    {"resultID": 118490, "resultName": "Halbzeit", "pointsTeam1": 3, "pointsTeam2": 0, "resultOrderID": 1, "resultTypeID": 1, "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"},
+    {"resultID": 118491, "resultName": "Endergebnis", "pointsTeam1": 6, "pointsTeam2": 0, "resultOrderID": 2, "resultTypeID": 2, "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"}
+  ],
+  "goals": [],
+  "location": null,
+  "numberOfViewers": null
+}

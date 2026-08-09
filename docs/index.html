@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Bundesliga">
+  <meta name="theme-color" content="#eaf0f7" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0a0c12" media="(prefers-color-scheme: dark)">
+  <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png">
+  <link rel="icon" type="image/svg+xml" href="./icons/icon.svg">
+  <link rel="manifest" href="./manifest.json">
+  <title>Bundesliga 2026/27</title>
+  <meta name="description" content="Spielplan, Ergebnisse und Tabelle der Bundesliga 2026/27.">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body class="league-app">
+  <header><div class="wrap"><div class="head glass league-head">
+    <div class="league-title"><div class="league-kicker">Saison 2026/27</div><h1>Bundesliga</h1></div>
+    <div class="league-head-actions">
+      <div id="meta" class="sync" aria-live="polite">Wird aktualisiert…</div>
+      <button id="theme-toggle" class="theme-toggle" aria-label="Design wechseln" title="Design: automatisch">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="5"/><path d="M12 1v3M12 20v3M4.2 4.2l2.1 2.1M17.7 17.7l2.1 2.1M1 12h3M20 12h3M4.2 19.8l2.1-2.1M17.7 6.3l2.1-2.1"/></svg>
+      </button>
+    </div>
+  </div></div></header>
+  <main class="wrap" id="app" tabindex="-1">
+    <section class="league-panel" aria-label="Bundesliga wird geladen">
+      <div class="matchday-hero glass skeleton-hero"><span></span><span></span><span></span></div>
+      <div class="fixture-board skeleton-board" aria-hidden="true">
+        <div class="skeleton-heading"></div>
+        <div class="skeleton-row"></div><div class="skeleton-row"></div><div class="skeleton-row"></div>
+      </div>
+    </section>
+  </main>
+
+  <div id="install-banner" class="install-banner" hidden aria-live="polite">
+    <button id="install-action" class="install-banner__action"><span id="install-banner-text">Bundesliga-App installieren</span></button>
+    <button id="install-dismiss" class="install-banner__close" aria-label="Installationshinweis schließen">✕</button>
+  </div>
+
+  <div id="ios-install-sheet" class="ios-sheet" hidden aria-modal="true" role="dialog" aria-labelledby="ios-install-title">
+    <div class="ios-sheet__backdrop" data-close-install></div>
+    <div class="ios-sheet__body">
+      <div class="ios-sheet__handle"></div>
+      <h2 id="ios-install-title" class="ios-sheet__title">Bundesliga-App installieren</h2>
+      <div class="ios-sheet__steps">
+        <div class="ios-sheet__step"><span class="ios-sheet__num">1</span><span>Tippe in Safari auf <strong>Teilen</strong>.</span></div>
+        <div class="ios-sheet__step"><span class="ios-sheet__num">2</span><span>Wähle <strong>„Zum Home-Bildschirm“</strong>.</span></div>
+        <div class="ios-sheet__step"><span class="ios-sheet__num">3</span><span>Tippe auf <strong>„Hinzufügen“</strong>.</span></div>
+      </div>
+      <button id="ios-install-close" class="ios-sheet__close">Schließen</button>
+    </div>
+  </div>
+  <nav aria-label="Hauptnavigation"><div class="tabs glass league-tabs" role="tablist">
+    <button class="tab active" role="tab" aria-selected="true" data-view="matches">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 3v18M3 12h18"/></svg>Spiele
+    </button>
+    <button class="tab" role="tab" aria-selected="false" data-view="table">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 19V9m5 10V5m5 14v-7m5 7v-11"/></svg>Tabelle
+    </button>
+  </div></nav>
+  <footer class="site-footer">Daten: <a href="https://www.openligadb.de/" target="_blank" rel="noopener">OpenLigaDB</a>
+    · <a href="https://opendatacommons.org/licenses/odbl/" target="_blank" rel="noopener">ODbL</a></footer>
+  <script src="./app.js"></script>
+</body>
+</html>

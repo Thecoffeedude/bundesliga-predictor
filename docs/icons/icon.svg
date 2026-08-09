@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <radialGradient id="bg" cx="30%" cy="20%" r="120%">
+      <stop offset="0%" stop-color="#222838"/>
+      <stop offset="100%" stop-color="#10131A"/>
+    </radialGradient>
+  </defs>
+  <!-- background (full square for maskable; render_icons.py clips to rounded rect) -->
+  <rect width="100" height="100" fill="url(#bg)"/>
+  <!-- Concept B: Podium + Ball -->
+  <line x1="18" y1="85" x2="82" y2="85" stroke="#fff" stroke-width="2" opacity=".14" stroke-linecap="round"/>
+  <rect x="20" y="50" width="16" height="34" rx="7" fill="#3FA9FF"/>
+  <rect x="42" y="32" width="16" height="52" rx="7" fill="#8A7BFF"/>
+  <rect x="64" y="50" width="16" height="34" rx="7" fill="#FF9F2E"/>
+  <circle cx="50" cy="26" r="11" fill="#fff"/>
+</svg>

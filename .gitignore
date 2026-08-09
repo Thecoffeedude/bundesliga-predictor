@@ -1,0 +1,19 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.coverage
+htmlcov/
+.DS_Store
+
+# Reproducible, machine-local OpenLigaDB runtime caches. The deployable payload
+# is docs/data.json and remains tracked.
+data/cache/
+
+# Local browser/test output; committed frontend icons under docs/icons are not
+# covered by these directory-specific rules.
+playwright-report/
+test-results/
+qa-artifacts/

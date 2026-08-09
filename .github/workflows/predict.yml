@@ -1,0 +1,46 @@
+name: Bundesliga 2026/27 – Daten aktualisieren
+
+on:
+  schedule:
+    # Daily baseline plus sensible match-window refreshes (Europe/Berlin).
+    - cron: '0 5 * * *'
+    # All weekdays are covered because Bundesliga has occasional midweek rounds.
+    - cron: '*/30 11-22 * * *'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'OpenLigaDB-Caches ignorieren und vollständig aktualisieren'
+        type: boolean
+        default: false
+
+concurrency:
+  group: bundesliga-data-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+      - name: Python einrichten
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      - name: Abhängigkeiten installieren
+        run: pip install -r requirements.txt
+      - name: OpenLigaDB synchronisieren und Frontend-Daten bauen
+        run: >
+          python3 src/build_bundesliga.py
+          ${{ github.event.inputs.force == 'true' && '--force' || '' }}
+      - name: Deployment-Daten committen
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data.json
+          git diff --staged --quiet && echo "Keine Änderungen." || \
+            git commit -m "chore: Bundesliga-Daten $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git pull --rebase && git push
