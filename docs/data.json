@@ -8,7 +8,7 @@
     "timezone": "Europe/Berlin",
     "format": "league"
   },
-  "updated_at": "2026-08-11T16:02:08Z",
+  "updated_at": "2026-08-11T17:28:41Z",
   "current_matchday": 1,
   "matchdays": [
     {
@@ -77,6 +77,39 @@
             "city": null
           },
           "lastUpdated": "2026-07-03T05:35:56Z",
+          "prediction": null,
+          "odds": null
+        },
+        {
+          "id": "openligadb:83164",
+          "providerId": 83164,
+          "matchday": 1,
+          "kickoff": "2026-08-29T13:30:00Z",
+          "status": "SCHEDULED",
+          "statusDerived": true,
+          "home": {
+            "id": "sv-07-elversberg",
+            "providerId": 198,
+            "name": "SV 07 Elversberg",
+            "shortName": "Elversberg",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/SV_Elversberg_Logo.svg/500px-SV_Elversberg_Logo.svg.png"
+          },
+          "away": {
+            "id": "bayer-04-leverkusen",
+            "providerId": 6,
+            "name": "Bayer 04 Leverkusen",
+            "shortName": "Leverkusen",
+            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-07-03T05:37:14Z",
           "prediction": null,
           "odds": null
         },
@@ -176,39 +209,6 @@
             "city": null
           },
           "lastUpdated": "2026-07-03T05:37:05Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
-          "id": "openligadb:83164",
-          "providerId": 83164,
-          "matchday": 1,
-          "kickoff": "2026-08-29T13:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
-          "home": {
-            "id": "sv-07-elversberg",
-            "providerId": 198,
-            "name": "SV 07 Elversberg",
-            "shortName": "Elversberg",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/SV_Elversberg_Logo.svg/500px-SV_Elversberg_Logo.svg.png"
-          },
-          "away": {
-            "id": "bayer-04-leverkusen",
-            "providerId": 6,
-            "name": "Bayer 04 Leverkusen",
-            "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
-          },
-          "score": {
-            "home": null,
-            "away": null
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-07-03T05:37:14Z",
           "prediction": null,
           "odds": null
         },
