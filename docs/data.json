@@ -8,7 +8,7 @@
     "timezone": "Europe/Berlin",
     "format": "league"
   },
-  "updated_at": "2026-08-13T11:49:37Z",
+  "updated_at": "2026-08-13T13:16:01Z",
   "current_matchday": 1,
   "matchdays": [
     {
@@ -44,6 +44,39 @@
             "city": null
           },
           "lastUpdated": "2026-07-03T05:35:20Z",
+          "prediction": null,
+          "odds": null
+        },
+        {
+          "id": "openligadb:83162",
+          "providerId": 83162,
+          "matchday": 1,
+          "kickoff": "2026-08-29T13:30:00Z",
+          "status": "SCHEDULED",
+          "statusDerived": true,
+          "home": {
+            "id": "1-fc-union-berlin",
+            "providerId": 80,
+            "name": "1. FC Union Berlin",
+            "shortName": "Union Berlin",
+            "logo": "https://assets.dfb.de/uploads/000/018/232/small_union-Berlin.jpg"
+          },
+          "away": {
+            "id": "eintracht-frankfurt",
+            "providerId": 91,
+            "name": "Eintracht Frankfurt",
+            "shortName": "Frankfurt",
+            "logo": "https://i.imgur.com/X8NFkOb.png"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-07-15T09:47:24Z",
           "prediction": null,
           "odds": null
         },
@@ -110,39 +143,6 @@
             "city": null
           },
           "lastUpdated": "2026-07-03T05:36:40Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
-          "id": "openligadb:83162",
-          "providerId": 83162,
-          "matchday": 1,
-          "kickoff": "2026-08-29T13:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
-          "home": {
-            "id": "1-fc-union-berlin",
-            "providerId": 80,
-            "name": "1. FC Union Berlin",
-            "shortName": "Union Berlin",
-            "logo": "https://assets.dfb.de/uploads/000/018/232/small_union-Berlin.jpg"
-          },
-          "away": {
-            "id": "eintracht-frankfurt",
-            "providerId": 91,
-            "name": "Eintracht Frankfurt",
-            "shortName": "Frankfurt",
-            "logo": "https://i.imgur.com/X8NFkOb.png"
-          },
-          "score": {
-            "home": null,
-            "away": null
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-07-15T09:47:24Z",
           "prediction": null,
           "odds": null
         },
