@@ -8,7 +8,7 @@
     "timezone": "Europe/Berlin",
     "format": "league"
   },
-  "updated_at": "2026-08-21T14:37:06Z",
+  "updated_at": "2026-08-21T15:35:32Z",
   "current_matchday": 1,
   "matchdays": [
     {
@@ -114,25 +114,25 @@
           "odds": null
         },
         {
-          "id": "openligadb:83164",
-          "providerId": 83164,
+          "id": "openligadb:83163",
+          "providerId": 83163,
           "matchday": 1,
           "kickoff": "2026-08-29T13:30:00Z",
           "status": "SCHEDULED",
           "statusDerived": true,
           "home": {
-            "id": "sv-07-elversberg",
-            "providerId": 198,
-            "name": "SV 07 Elversberg",
-            "shortName": "Elversberg",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/SV_Elversberg_Logo.svg/500px-SV_Elversberg_Logo.svg.png"
+            "id": "1-fc-koln",
+            "providerId": 65,
+            "name": "1. FC Köln",
+            "shortName": "Köln",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg"
           },
           "away": {
-            "id": "bayer-04-leverkusen",
-            "providerId": 6,
-            "name": "Bayer 04 Leverkusen",
-            "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "id": "tsg-hoffenheim",
+            "providerId": 175,
+            "name": "TSG Hoffenheim",
+            "shortName": "Hoffenheim",
+            "logo": "https://i.imgur.com/gF0PfEl.png"
           },
           "score": {
             "home": null,
@@ -142,7 +142,7 @@
             "stadium": null,
             "city": null
           },
-          "lastUpdated": "2026-07-03T05:37:14Z",
+          "lastUpdated": "2026-07-03T05:37:05Z",
           "prediction": null,
           "odds": null
         },
@@ -180,25 +180,25 @@
           "odds": null
         },
         {
-          "id": "openligadb:83163",
-          "providerId": 83163,
+          "id": "openligadb:83164",
+          "providerId": 83164,
           "matchday": 1,
           "kickoff": "2026-08-29T13:30:00Z",
           "status": "SCHEDULED",
           "statusDerived": true,
           "home": {
-            "id": "1-fc-koln",
-            "providerId": 65,
-            "name": "1. FC Köln",
-            "shortName": "Köln",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg"
+            "id": "sv-07-elversberg",
+            "providerId": 198,
+            "name": "SV 07 Elversberg",
+            "shortName": "Elversberg",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/SV_Elversberg_Logo.svg/500px-SV_Elversberg_Logo.svg.png"
           },
           "away": {
-            "id": "tsg-hoffenheim",
-            "providerId": 175,
-            "name": "TSG Hoffenheim",
-            "shortName": "Hoffenheim",
-            "logo": "https://i.imgur.com/gF0PfEl.png"
+            "id": "bayer-04-leverkusen",
+            "providerId": 6,
+            "name": "Bayer 04 Leverkusen",
+            "shortName": "Leverkusen",
+            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
           },
           "score": {
             "home": null,
@@ -208,7 +208,7 @@
             "stadium": null,
             "city": null
           },
-          "lastUpdated": "2026-07-03T05:37:05Z",
+          "lastUpdated": "2026-07-03T05:37:14Z",
           "prediction": null,
           "odds": null
         },
@@ -296,7 +296,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "score": {
@@ -525,7 +525,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "away": {
@@ -636,7 +636,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "score": {
@@ -1162,7 +1162,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "away": {
@@ -1339,7 +1339,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "score": {
@@ -1766,7 +1766,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "away": {
@@ -2075,7 +2075,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "score": {
@@ -2370,7 +2370,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "away": {
@@ -2547,7 +2547,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "score": {
@@ -2974,7 +2974,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "away": {
@@ -3316,7 +3316,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "score": {
@@ -3578,7 +3578,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "away": {
@@ -3821,7 +3821,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "score": {
@@ -4182,7 +4182,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "away": {
@@ -4359,7 +4359,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "score": {
@@ -4786,7 +4786,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "away": {
@@ -4963,7 +4963,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "score": {
@@ -5390,7 +5390,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "away": {
@@ -5468,7 +5468,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "score": {
@@ -5994,7 +5994,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "away": {
@@ -6336,7 +6336,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "score": {
@@ -6598,7 +6598,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "away": {
@@ -6874,7 +6874,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "score": {
@@ -7202,7 +7202,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "away": {
@@ -7313,7 +7313,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "score": {
@@ -7806,7 +7806,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "away": {
@@ -7950,7 +7950,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "score": {
@@ -8410,7 +8410,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "away": {
@@ -8488,7 +8488,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "score": {
@@ -9014,7 +9014,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "away": {
@@ -9224,7 +9224,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "score": {
@@ -9618,7 +9618,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "away": {
@@ -9927,7 +9927,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "score": {
@@ -10222,7 +10222,7 @@
             "id": "fc-schalke-04",
             "providerId": 9,
             "name": "FC Schalke 04",
-            "shortName": "Schalke",
+            "shortName": "S04",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "away": {
@@ -10566,7 +10566,7 @@
       "id": "fc-schalke-04",
       "providerId": 9,
       "name": "FC Schalke 04",
-      "shortName": "Schalke",
+      "shortName": "S04",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
     },
     "hamburger-sv": {
