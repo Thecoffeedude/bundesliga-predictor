@@ -8,7 +8,7 @@
     "timezone": "Europe/Berlin",
     "format": "league"
   },
-  "updated_at": "2026-08-27T16:05:18Z",
+  "updated_at": "2026-08-27T20:55:32Z",
   "current_matchday": 1,
   "matchdays": [
     {
@@ -44,39 +44,6 @@
             "city": null
           },
           "lastUpdated": "2026-07-03T05:35:20Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
-          "id": "openligadb:83163",
-          "providerId": 83163,
-          "matchday": 1,
-          "kickoff": "2026-08-29T13:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
-          "home": {
-            "id": "1-fc-koln",
-            "providerId": 65,
-            "name": "1. FC Köln",
-            "shortName": "Köln",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg"
-          },
-          "away": {
-            "id": "tsg-hoffenheim",
-            "providerId": 175,
-            "name": "TSG Hoffenheim",
-            "shortName": "Hoffenheim",
-            "logo": "https://i.imgur.com/gF0PfEl.png"
-          },
-          "score": {
-            "home": null,
-            "away": null
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-07-03T05:37:05Z",
           "prediction": null,
           "odds": null
         },
@@ -176,6 +143,39 @@
             "city": null
           },
           "lastUpdated": "2026-07-15T09:47:24Z",
+          "prediction": null,
+          "odds": null
+        },
+        {
+          "id": "openligadb:83163",
+          "providerId": 83163,
+          "matchday": 1,
+          "kickoff": "2026-08-29T13:30:00Z",
+          "status": "SCHEDULED",
+          "statusDerived": true,
+          "home": {
+            "id": "1-fc-koln",
+            "providerId": 65,
+            "name": "1. FC Köln",
+            "shortName": "Köln",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg"
+          },
+          "away": {
+            "id": "tsg-hoffenheim",
+            "providerId": 175,
+            "name": "TSG Hoffenheim",
+            "shortName": "Hoffenheim",
+            "logo": "https://i.imgur.com/gF0PfEl.png"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-07-03T05:37:05Z",
           "prediction": null,
           "odds": null
         },
