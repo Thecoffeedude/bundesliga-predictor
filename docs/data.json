@@ -8,7 +8,7 @@
     "timezone": "Europe/Berlin",
     "format": "league"
   },
-  "updated_at": "2026-08-28T17:08:58Z",
+  "updated_at": "2026-08-28T21:19:52Z",
   "current_matchday": 1,
   "matchdays": [
     {
@@ -19,8 +19,8 @@
           "providerId": 83156,
           "matchday": 1,
           "kickoff": "2026-08-28T18:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
+          "status": "FINISHED",
+          "statusDerived": false,
           "home": {
             "id": "fc-bayern-munchen",
             "providerId": 40,
@@ -36,6 +36,39 @@
             "logo": "https://i.imgur.com/v0tkpNx.png"
           },
           "score": {
+            "home": 5,
+            "away": 1
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-08-28T20:25:35Z",
+          "prediction": null,
+          "odds": null
+        },
+        {
+          "id": "openligadb:83162",
+          "providerId": 83162,
+          "matchday": 1,
+          "kickoff": "2026-08-29T13:30:00Z",
+          "status": "SCHEDULED",
+          "statusDerived": true,
+          "home": {
+            "id": "1-fc-union-berlin",
+            "providerId": 80,
+            "name": "1. FC Union Berlin",
+            "shortName": "Union Berlin",
+            "logo": "https://assets.dfb.de/uploads/000/018/232/small_union-Berlin.jpg"
+          },
+          "away": {
+            "id": "eintracht-frankfurt",
+            "providerId": 91,
+            "name": "Eintracht Frankfurt",
+            "shortName": "Frankfurt",
+            "logo": "https://i.imgur.com/X8NFkOb.png"
+          },
+          "score": {
             "home": null,
             "away": null
           },
@@ -43,7 +76,7 @@
             "stadium": null,
             "city": null
           },
-          "lastUpdated": "2026-07-03T05:35:20Z",
+          "lastUpdated": "2026-07-15T09:47:24Z",
           "prediction": null,
           "odds": null
         },
@@ -81,39 +114,6 @@
           "odds": null
         },
         {
-          "id": "openligadb:83163",
-          "providerId": 83163,
-          "matchday": 1,
-          "kickoff": "2026-08-29T13:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
-          "home": {
-            "id": "1-fc-koln",
-            "providerId": 65,
-            "name": "1. FC Köln",
-            "shortName": "Köln",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg"
-          },
-          "away": {
-            "id": "tsg-hoffenheim",
-            "providerId": 175,
-            "name": "TSG Hoffenheim",
-            "shortName": "Hoffenheim",
-            "logo": "https://i.imgur.com/gF0PfEl.png"
-          },
-          "score": {
-            "home": null,
-            "away": null
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-07-03T05:37:05Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
           "id": "openligadb:83161",
           "providerId": 83161,
           "matchday": 1,
@@ -147,25 +147,25 @@
           "odds": null
         },
         {
-          "id": "openligadb:83162",
-          "providerId": 83162,
+          "id": "openligadb:83163",
+          "providerId": 83163,
           "matchday": 1,
           "kickoff": "2026-08-29T13:30:00Z",
           "status": "SCHEDULED",
           "statusDerived": true,
           "home": {
-            "id": "1-fc-union-berlin",
-            "providerId": 80,
-            "name": "1. FC Union Berlin",
-            "shortName": "Union Berlin",
-            "logo": "https://assets.dfb.de/uploads/000/018/232/small_union-Berlin.jpg"
+            "id": "1-fc-koln",
+            "providerId": 65,
+            "name": "1. FC Köln",
+            "shortName": "Köln",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg"
           },
           "away": {
-            "id": "eintracht-frankfurt",
-            "providerId": 91,
-            "name": "Eintracht Frankfurt",
-            "shortName": "Frankfurt",
-            "logo": "https://i.imgur.com/X8NFkOb.png"
+            "id": "tsg-hoffenheim",
+            "providerId": 175,
+            "name": "TSG Hoffenheim",
+            "shortName": "Hoffenheim",
+            "logo": "https://i.imgur.com/gF0PfEl.png"
           },
           "score": {
             "home": null,
@@ -175,7 +175,7 @@
             "stadium": null,
             "city": null
           },
-          "lastUpdated": "2026-07-15T09:47:24Z",
+          "lastUpdated": "2026-07-03T05:37:05Z",
           "prediction": null,
           "odds": null
         },
@@ -10283,6 +10283,18 @@
   "standings": [
     {
       "position": 1,
+      "team_id": "fc-bayern-munchen",
+      "played": 1,
+      "won": 1,
+      "drawn": 0,
+      "lost": 0,
+      "goals_for": 5,
+      "goals_against": 1,
+      "goal_difference": 4,
+      "points": 3
+    },
+    {
+      "position": 2,
       "team_id": "1-fc-koln",
       "played": 0,
       "won": 0,
@@ -10294,7 +10306,7 @@
       "points": 0
     },
     {
-      "position": 2,
+      "position": 3,
       "team_id": "1-fc-union-berlin",
       "played": 0,
       "won": 0,
@@ -10306,7 +10318,7 @@
       "points": 0
     },
     {
-      "position": 3,
+      "position": 4,
       "team_id": "1-fsv-mainz-05",
       "played": 0,
       "won": 0,
@@ -10318,7 +10330,7 @@
       "points": 0
     },
     {
-      "position": 4,
+      "position": 5,
       "team_id": "bayer-04-leverkusen",
       "played": 0,
       "won": 0,
@@ -10330,7 +10342,7 @@
       "points": 0
     },
     {
-      "position": 5,
+      "position": 6,
       "team_id": "borussia-dortmund",
       "played": 0,
       "won": 0,
@@ -10342,7 +10354,7 @@
       "points": 0
     },
     {
-      "position": 6,
+      "position": 7,
       "team_id": "borussia-monchengladbach",
       "played": 0,
       "won": 0,
@@ -10354,7 +10366,7 @@
       "points": 0
     },
     {
-      "position": 7,
+      "position": 8,
       "team_id": "eintracht-frankfurt",
       "played": 0,
       "won": 0,
@@ -10366,20 +10378,8 @@
       "points": 0
     },
     {
-      "position": 8,
-      "team_id": "fc-augsburg",
-      "played": 0,
-      "won": 0,
-      "drawn": 0,
-      "lost": 0,
-      "goals_for": 0,
-      "goals_against": 0,
-      "goal_difference": 0,
-      "points": 0
-    },
-    {
       "position": 9,
-      "team_id": "fc-bayern-munchen",
+      "team_id": "fc-augsburg",
       "played": 0,
       "won": 0,
       "drawn": 0,
@@ -10488,13 +10488,13 @@
     {
       "position": 18,
       "team_id": "vfb-stuttgart",
-      "played": 0,
+      "played": 1,
       "won": 0,
       "drawn": 0,
-      "lost": 0,
-      "goals_for": 0,
-      "goals_against": 0,
-      "goal_difference": 0,
+      "lost": 1,
+      "goals_for": 1,
+      "goals_against": 5,
+      "goal_difference": -4,
       "points": 0
     }
   ],
