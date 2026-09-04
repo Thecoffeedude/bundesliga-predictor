@@ -8,7 +8,7 @@
     "timezone": "Europe/Berlin",
     "format": "league"
   },
-  "updated_at": "2026-09-04T09:19:19Z",
+  "updated_at": "2026-09-04T14:51:25Z",
   "current_matchday": 2,
   "matchdays": [
     {
@@ -350,39 +350,6 @@
           "odds": null
         },
         {
-          "id": "openligadb:83166",
-          "providerId": 83166,
-          "matchday": 2,
-          "kickoff": "2026-09-05T13:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
-          "home": {
-            "id": "tsg-hoffenheim",
-            "providerId": 175,
-            "name": "TSG Hoffenheim",
-            "shortName": "Hoffenheim",
-            "logo": "https://i.imgur.com/gF0PfEl.png"
-          },
-          "away": {
-            "id": "borussia-dortmund",
-            "providerId": 7,
-            "name": "Borussia Dortmund",
-            "shortName": "Dortmund",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/960px-Borussia_Dortmund_logo.svg.png"
-          },
-          "score": {
-            "home": null,
-            "away": null
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-07-03T05:38:09Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
           "id": "openligadb:83167",
           "providerId": 83167,
           "matchday": 2,
@@ -412,6 +379,39 @@
             "city": null
           },
           "lastUpdated": "2026-07-03T05:38:22Z",
+          "prediction": null,
+          "odds": null
+        },
+        {
+          "id": "openligadb:83166",
+          "providerId": 83166,
+          "matchday": 2,
+          "kickoff": "2026-09-05T13:30:00Z",
+          "status": "SCHEDULED",
+          "statusDerived": true,
+          "home": {
+            "id": "tsg-hoffenheim",
+            "providerId": 175,
+            "name": "TSG Hoffenheim",
+            "shortName": "Hoffenheim",
+            "logo": "https://i.imgur.com/gF0PfEl.png"
+          },
+          "away": {
+            "id": "borussia-dortmund",
+            "providerId": 7,
+            "name": "Borussia Dortmund",
+            "shortName": "Dortmund",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/960px-Borussia_Dortmund_logo.svg.png"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-07-03T05:38:09Z",
           "prediction": null,
           "odds": null
         },
