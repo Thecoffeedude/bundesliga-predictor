@@ -8,7 +8,7 @@
     "timezone": "Europe/Berlin",
     "format": "league"
   },
-  "updated_at": "2026-09-05T16:36:41Z",
+  "updated_at": "2026-09-05T18:51:19Z",
   "current_matchday": 2,
   "matchdays": [
     {
@@ -350,39 +350,6 @@
           "odds": null
         },
         {
-          "id": "openligadb:83167",
-          "providerId": 83167,
-          "matchday": 2,
-          "kickoff": "2026-09-05T13:30:00Z",
-          "status": "FINISHED",
-          "statusDerived": false,
-          "home": {
-            "id": "bayer-04-leverkusen",
-            "providerId": 6,
-            "name": "Bayer 04 Leverkusen",
-            "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
-          },
-          "away": {
-            "id": "1-fc-union-berlin",
-            "providerId": 80,
-            "name": "1. FC Union Berlin",
-            "shortName": "Union Berlin",
-            "logo": "https://assets.dfb.de/uploads/000/018/232/small_union-Berlin.jpg"
-          },
-          "score": {
-            "home": 4,
-            "away": 0
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-09-05T15:21:30Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
           "id": "openligadb:83171",
           "providerId": 83171,
           "matchday": 2,
@@ -445,6 +412,39 @@
             "city": null
           },
           "lastUpdated": "2026-09-05T15:25:56Z",
+          "prediction": null,
+          "odds": null
+        },
+        {
+          "id": "openligadb:83167",
+          "providerId": 83167,
+          "matchday": 2,
+          "kickoff": "2026-09-05T13:30:00Z",
+          "status": "FINISHED",
+          "statusDerived": false,
+          "home": {
+            "id": "bayer-04-leverkusen",
+            "providerId": 6,
+            "name": "Bayer 04 Leverkusen",
+            "shortName": "Leverkusen",
+            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+          },
+          "away": {
+            "id": "1-fc-union-berlin",
+            "providerId": 80,
+            "name": "1. FC Union Berlin",
+            "shortName": "Union Berlin",
+            "logo": "https://assets.dfb.de/uploads/000/018/232/small_union-Berlin.jpg"
+          },
+          "score": {
+            "home": 4,
+            "away": 0
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-09-05T15:21:30Z",
           "prediction": null,
           "odds": null
         },
@@ -519,8 +519,8 @@
           "providerId": 83172,
           "matchday": 2,
           "kickoff": "2026-09-05T16:30:00Z",
-          "status": "LIVE_OR_ONGOING",
-          "statusDerived": true,
+          "status": "FINISHED",
+          "statusDerived": false,
           "home": {
             "id": "fc-schalke-04",
             "providerId": 9,
@@ -536,14 +536,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg"
           },
           "score": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
           },
           "venue": {
             "stadium": null,
             "city": null
           },
-          "lastUpdated": "2026-07-15T09:45:44Z",
+          "lastUpdated": "2026-09-05T18:24:03Z",
           "prediction": null,
           "odds": null
         },
@@ -10320,14 +10320,14 @@
     {
       "position": 4,
       "team_id": "fc-bayern-munchen",
-      "played": 1,
+      "played": 2,
       "won": 1,
-      "drawn": 0,
+      "drawn": 1,
       "lost": 0,
       "goals_for": 5,
       "goals_against": 1,
       "goal_difference": 4,
-      "points": 3
+      "points": 4
     },
     {
       "position": 5,
@@ -10439,6 +10439,18 @@
     },
     {
       "position": 14,
+      "team_id": "fc-schalke-04",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 1,
+      "goals_for": 0,
+      "goals_against": 3,
+      "goal_difference": -3,
+      "points": 1
+    },
+    {
+      "position": 15,
       "team_id": "1-fc-union-berlin",
       "played": 2,
       "won": 0,
@@ -10450,7 +10462,7 @@
       "points": 1
     },
     {
-      "position": 15,
+      "position": 16,
       "team_id": "tsg-hoffenheim",
       "played": 2,
       "won": 0,
@@ -10462,7 +10474,7 @@
       "points": 0
     },
     {
-      "position": 16,
+      "position": 17,
       "team_id": "hamburger-sv",
       "played": 1,
       "won": 0,
@@ -10471,18 +10483,6 @@
       "goals_for": 0,
       "goals_against": 2,
       "goal_difference": -2,
-      "points": 0
-    },
-    {
-      "position": 17,
-      "team_id": "fc-schalke-04",
-      "played": 1,
-      "won": 0,
-      "drawn": 0,
-      "lost": 1,
-      "goals_for": 0,
-      "goals_against": 3,
-      "goal_difference": -3,
       "points": 0
     },
     {
