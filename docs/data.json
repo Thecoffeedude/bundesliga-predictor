@@ -8,7 +8,7 @@
     "timezone": "Europe/Berlin",
     "format": "league"
   },
-  "updated_at": "2026-09-10T14:54:57Z",
+  "updated_at": "2026-09-10T18:11:56Z",
   "current_matchday": 3,
   "matchdays": [
     {
@@ -1226,7 +1226,7 @@
           "id": "openligadb:83192",
           "providerId": 83192,
           "matchday": 5,
-          "kickoff": "2026-10-10T13:30:00Z",
+          "kickoff": "2026-10-09T18:30:00Z",
           "status": "SCHEDULED",
           "statusDerived": true,
           "home": {
@@ -1251,40 +1251,7 @@
             "stadium": null,
             "city": null
           },
-          "lastUpdated": "2026-07-03T06:02:41Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
-          "id": "openligadb:83193",
-          "providerId": 83193,
-          "matchday": 5,
-          "kickoff": "2026-10-10T13:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
-          "home": {
-            "id": "rb-leipzig",
-            "providerId": 1635,
-            "name": "RB Leipzig",
-            "shortName": "Leipzig",
-            "logo": "https://i.imgur.com/Rpwsjz1.png"
-          },
-          "away": {
-            "id": "eintracht-frankfurt",
-            "providerId": 91,
-            "name": "Eintracht Frankfurt",
-            "shortName": "Frankfurt",
-            "logo": "https://i.imgur.com/X8NFkOb.png"
-          },
-          "score": {
-            "home": null,
-            "away": null
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-07-03T06:02:53Z",
+          "lastUpdated": "2026-09-10T15:22:25Z",
           "prediction": null,
           "odds": null
         },
@@ -1318,39 +1285,6 @@
             "city": null
           },
           "lastUpdated": "2026-07-03T06:03:08Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
-          "id": "openligadb:83195",
-          "providerId": 83195,
-          "matchday": 5,
-          "kickoff": "2026-10-10T13:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
-          "home": {
-            "id": "sc-freiburg",
-            "providerId": 112,
-            "name": "SC Freiburg",
-            "shortName": "Freiburg",
-            "logo": "https://i.imgur.com/r3mvi0h.png"
-          },
-          "away": {
-            "id": "fc-schalke-04",
-            "providerId": 9,
-            "name": "FC Schalke 04",
-            "shortName": "S04",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
-          },
-          "score": {
-            "home": null,
-            "away": null
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-07-03T06:03:18Z",
           "prediction": null,
           "odds": null
         },
@@ -1454,39 +1388,6 @@
           "odds": null
         },
         {
-          "id": "openligadb:83199",
-          "providerId": 83199,
-          "matchday": 5,
-          "kickoff": "2026-10-10T13:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
-          "home": {
-            "id": "1-fc-koln",
-            "providerId": 65,
-            "name": "1. FC Köln",
-            "shortName": "Köln",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg"
-          },
-          "away": {
-            "id": "borussia-monchengladbach",
-            "providerId": 87,
-            "name": "Borussia Mönchengladbach",
-            "shortName": "Gladbach",
-            "logo": "https://i.imgur.com/KSIk0Eu.png"
-          },
-          "score": {
-            "home": null,
-            "away": null
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-07-03T06:04:03Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
           "id": "openligadb:83200",
           "providerId": 83200,
           "matchday": 5,
@@ -1518,6 +1419,105 @@
           "lastUpdated": "2026-07-03T06:04:14Z",
           "prediction": null,
           "odds": null
+        },
+        {
+          "id": "openligadb:83193",
+          "providerId": 83193,
+          "matchday": 5,
+          "kickoff": "2026-10-10T16:30:00Z",
+          "status": "SCHEDULED",
+          "statusDerived": true,
+          "home": {
+            "id": "rb-leipzig",
+            "providerId": 1635,
+            "name": "RB Leipzig",
+            "shortName": "Leipzig",
+            "logo": "https://i.imgur.com/Rpwsjz1.png"
+          },
+          "away": {
+            "id": "eintracht-frankfurt",
+            "providerId": 91,
+            "name": "Eintracht Frankfurt",
+            "shortName": "Frankfurt",
+            "logo": "https://i.imgur.com/X8NFkOb.png"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-09-10T15:22:35Z",
+          "prediction": null,
+          "odds": null
+        },
+        {
+          "id": "openligadb:83199",
+          "providerId": 83199,
+          "matchday": 5,
+          "kickoff": "2026-10-11T13:30:00Z",
+          "status": "SCHEDULED",
+          "statusDerived": true,
+          "home": {
+            "id": "1-fc-koln",
+            "providerId": 65,
+            "name": "1. FC Köln",
+            "shortName": "Köln",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg"
+          },
+          "away": {
+            "id": "borussia-monchengladbach",
+            "providerId": 87,
+            "name": "Borussia Mönchengladbach",
+            "shortName": "Gladbach",
+            "logo": "https://i.imgur.com/KSIk0Eu.png"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-09-10T15:22:53Z",
+          "prediction": null,
+          "odds": null
+        },
+        {
+          "id": "openligadb:83195",
+          "providerId": 83195,
+          "matchday": 5,
+          "kickoff": "2026-10-11T15:30:00Z",
+          "status": "SCHEDULED",
+          "statusDerived": true,
+          "home": {
+            "id": "sc-freiburg",
+            "providerId": 112,
+            "name": "SC Freiburg",
+            "shortName": "Freiburg",
+            "logo": "https://i.imgur.com/r3mvi0h.png"
+          },
+          "away": {
+            "id": "fc-schalke-04",
+            "providerId": 9,
+            "name": "FC Schalke 04",
+            "shortName": "S04",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-09-10T15:23:11Z",
+          "prediction": null,
+          "odds": null
         }
       ]
     },
@@ -1525,76 +1525,10 @@
       "number": 6,
       "matches": [
         {
-          "id": "openligadb:83201",
-          "providerId": 83201,
-          "matchday": 6,
-          "kickoff": "2026-10-17T13:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
-          "home": {
-            "id": "fc-bayern-munchen",
-            "providerId": 40,
-            "name": "FC Bayern München",
-            "shortName": "Bayern",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg"
-          },
-          "away": {
-            "id": "rb-leipzig",
-            "providerId": 1635,
-            "name": "RB Leipzig",
-            "shortName": "Leipzig",
-            "logo": "https://i.imgur.com/Rpwsjz1.png"
-          },
-          "score": {
-            "home": null,
-            "away": null
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-07-03T06:04:55Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
-          "id": "openligadb:83202",
-          "providerId": 83202,
-          "matchday": 6,
-          "kickoff": "2026-10-17T13:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
-          "home": {
-            "id": "bayer-04-leverkusen",
-            "providerId": 6,
-            "name": "Bayer 04 Leverkusen",
-            "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
-          },
-          "away": {
-            "id": "sc-freiburg",
-            "providerId": 112,
-            "name": "SC Freiburg",
-            "shortName": "Freiburg",
-            "logo": "https://i.imgur.com/r3mvi0h.png"
-          },
-          "score": {
-            "home": null,
-            "away": null
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-07-03T06:05:16Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
           "id": "openligadb:83203",
           "providerId": 83203,
           "matchday": 6,
-          "kickoff": "2026-10-17T13:30:00Z",
+          "kickoff": "2026-10-16T18:30:00Z",
           "status": "SCHEDULED",
           "statusDerived": true,
           "home": {
@@ -1619,7 +1553,7 @@
             "stadium": null,
             "city": null
           },
-          "lastUpdated": "2026-07-03T06:05:29Z",
+          "lastUpdated": "2026-09-10T15:25:46Z",
           "prediction": null,
           "odds": null
         },
@@ -1653,39 +1587,6 @@
             "city": null
           },
           "lastUpdated": "2026-07-03T06:05:42Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
-          "id": "openligadb:83205",
-          "providerId": 83205,
-          "matchday": 6,
-          "kickoff": "2026-10-17T13:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
-          "home": {
-            "id": "borussia-monchengladbach",
-            "providerId": 87,
-            "name": "Borussia Mönchengladbach",
-            "shortName": "Gladbach",
-            "logo": "https://i.imgur.com/KSIk0Eu.png"
-          },
-          "away": {
-            "id": "tsg-hoffenheim",
-            "providerId": 175,
-            "name": "TSG Hoffenheim",
-            "shortName": "Hoffenheim",
-            "logo": "https://i.imgur.com/gF0PfEl.png"
-          },
-          "score": {
-            "home": null,
-            "away": null
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-07-03T06:05:51Z",
           "prediction": null,
           "odds": null
         },
@@ -1820,32 +1721,27 @@
           "lastUpdated": "2026-07-03T06:06:32Z",
           "prediction": null,
           "odds": null
-        }
-      ]
-    },
-    {
-      "number": 7,
-      "matches": [
+        },
         {
-          "id": "openligadb:83210",
-          "providerId": 83210,
-          "matchday": 7,
-          "kickoff": "2026-10-24T13:30:00Z",
+          "id": "openligadb:83201",
+          "providerId": 83201,
+          "matchday": 6,
+          "kickoff": "2026-10-17T16:30:00Z",
           "status": "SCHEDULED",
           "statusDerived": true,
           "home": {
-            "id": "borussia-dortmund",
-            "providerId": 7,
-            "name": "Borussia Dortmund",
-            "shortName": "Dortmund",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/960px-Borussia_Dortmund_logo.svg.png"
+            "id": "fc-bayern-munchen",
+            "providerId": 40,
+            "name": "FC Bayern München",
+            "shortName": "Bayern",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg"
           },
           "away": {
-            "id": "eintracht-frankfurt",
-            "providerId": 91,
-            "name": "Eintracht Frankfurt",
-            "shortName": "Frankfurt",
-            "logo": "https://i.imgur.com/X8NFkOb.png"
+            "id": "rb-leipzig",
+            "providerId": 1635,
+            "name": "RB Leipzig",
+            "shortName": "Leipzig",
+            "logo": "https://i.imgur.com/Rpwsjz1.png"
           },
           "score": {
             "home": null,
@@ -1855,7 +1751,111 @@
             "stadium": null,
             "city": null
           },
-          "lastUpdated": "2026-07-03T06:07:05Z",
+          "lastUpdated": "2026-09-10T15:24:23Z",
+          "prediction": null,
+          "odds": null
+        },
+        {
+          "id": "openligadb:83202",
+          "providerId": 83202,
+          "matchday": 6,
+          "kickoff": "2026-10-18T13:30:00Z",
+          "status": "SCHEDULED",
+          "statusDerived": true,
+          "home": {
+            "id": "bayer-04-leverkusen",
+            "providerId": 6,
+            "name": "Bayer 04 Leverkusen",
+            "shortName": "Leverkusen",
+            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+          },
+          "away": {
+            "id": "sc-freiburg",
+            "providerId": 112,
+            "name": "SC Freiburg",
+            "shortName": "Freiburg",
+            "logo": "https://i.imgur.com/r3mvi0h.png"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-09-10T15:24:39Z",
+          "prediction": null,
+          "odds": null
+        },
+        {
+          "id": "openligadb:83205",
+          "providerId": 83205,
+          "matchday": 6,
+          "kickoff": "2026-10-18T15:30:00Z",
+          "status": "SCHEDULED",
+          "statusDerived": true,
+          "home": {
+            "id": "borussia-monchengladbach",
+            "providerId": 87,
+            "name": "Borussia Mönchengladbach",
+            "shortName": "Gladbach",
+            "logo": "https://i.imgur.com/KSIk0Eu.png"
+          },
+          "away": {
+            "id": "tsg-hoffenheim",
+            "providerId": 175,
+            "name": "TSG Hoffenheim",
+            "shortName": "Hoffenheim",
+            "logo": "https://i.imgur.com/gF0PfEl.png"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-09-10T15:24:52Z",
+          "prediction": null,
+          "odds": null
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "matches": [
+        {
+          "id": "openligadb:83212",
+          "providerId": 83212,
+          "matchday": 7,
+          "kickoff": "2026-10-23T18:30:00Z",
+          "status": "SCHEDULED",
+          "statusDerived": true,
+          "home": {
+            "id": "vfb-stuttgart",
+            "providerId": 16,
+            "name": "VfB Stuttgart",
+            "shortName": "Stuttgart",
+            "logo": "https://i.imgur.com/v0tkpNx.png"
+          },
+          "away": {
+            "id": "borussia-monchengladbach",
+            "providerId": 87,
+            "name": "Borussia Mönchengladbach",
+            "shortName": "Gladbach",
+            "logo": "https://i.imgur.com/KSIk0Eu.png"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-09-10T15:25:29Z",
           "prediction": null,
           "odds": null
         },
@@ -1889,105 +1889,6 @@
             "city": null
           },
           "lastUpdated": "2026-07-03T06:07:21Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
-          "id": "openligadb:83212",
-          "providerId": 83212,
-          "matchday": 7,
-          "kickoff": "2026-10-24T13:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
-          "home": {
-            "id": "vfb-stuttgart",
-            "providerId": 16,
-            "name": "VfB Stuttgart",
-            "shortName": "Stuttgart",
-            "logo": "https://i.imgur.com/v0tkpNx.png"
-          },
-          "away": {
-            "id": "borussia-monchengladbach",
-            "providerId": 87,
-            "name": "Borussia Mönchengladbach",
-            "shortName": "Gladbach",
-            "logo": "https://i.imgur.com/KSIk0Eu.png"
-          },
-          "score": {
-            "home": null,
-            "away": null
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-07-03T06:07:48Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
-          "id": "openligadb:83213",
-          "providerId": 83213,
-          "matchday": 7,
-          "kickoff": "2026-10-24T13:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
-          "home": {
-            "id": "tsg-hoffenheim",
-            "providerId": 175,
-            "name": "TSG Hoffenheim",
-            "shortName": "Hoffenheim",
-            "logo": "https://i.imgur.com/gF0PfEl.png"
-          },
-          "away": {
-            "id": "bayer-04-leverkusen",
-            "providerId": 6,
-            "name": "Bayer 04 Leverkusen",
-            "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
-          },
-          "score": {
-            "home": null,
-            "away": null
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-07-03T06:08:00Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
-          "id": "openligadb:83214",
-          "providerId": 83214,
-          "matchday": 7,
-          "kickoff": "2026-10-24T13:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
-          "home": {
-            "id": "sc-freiburg",
-            "providerId": 112,
-            "name": "SC Freiburg",
-            "shortName": "Freiburg",
-            "logo": "https://i.imgur.com/r3mvi0h.png"
-          },
-          "away": {
-            "id": "fc-bayern-munchen",
-            "providerId": 40,
-            "name": "FC Bayern München",
-            "shortName": "Bayern",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg"
-          },
-          "score": {
-            "home": null,
-            "away": null
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-07-03T06:08:15Z",
           "prediction": null,
           "odds": null
         },
@@ -2122,32 +2023,27 @@
           "lastUpdated": "2026-07-03T06:08:59Z",
           "prediction": null,
           "odds": null
-        }
-      ]
-    },
-    {
-      "number": 8,
-      "matches": [
+        },
         {
-          "id": "openligadb:83219",
-          "providerId": 83219,
-          "matchday": 8,
-          "kickoff": "2026-10-31T14:30:00Z",
+          "id": "openligadb:83210",
+          "providerId": 83210,
+          "matchday": 7,
+          "kickoff": "2026-10-24T16:30:00Z",
           "status": "SCHEDULED",
           "statusDerived": true,
           "home": {
-            "id": "fc-bayern-munchen",
-            "providerId": 40,
-            "name": "FC Bayern München",
-            "shortName": "Bayern",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg"
-          },
-          "away": {
             "id": "borussia-dortmund",
             "providerId": 7,
             "name": "Borussia Dortmund",
             "shortName": "Dortmund",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/960px-Borussia_Dortmund_logo.svg.png"
+          },
+          "away": {
+            "id": "eintracht-frankfurt",
+            "providerId": 91,
+            "name": "Eintracht Frankfurt",
+            "shortName": "Frankfurt",
+            "logo": "https://i.imgur.com/X8NFkOb.png"
           },
           "score": {
             "home": null,
@@ -2157,7 +2053,111 @@
             "stadium": null,
             "city": null
           },
-          "lastUpdated": "2026-07-03T06:09:50Z",
+          "lastUpdated": "2026-09-10T15:26:09Z",
+          "prediction": null,
+          "odds": null
+        },
+        {
+          "id": "openligadb:83213",
+          "providerId": 83213,
+          "matchday": 7,
+          "kickoff": "2026-10-25T14:30:00Z",
+          "status": "SCHEDULED",
+          "statusDerived": true,
+          "home": {
+            "id": "tsg-hoffenheim",
+            "providerId": 175,
+            "name": "TSG Hoffenheim",
+            "shortName": "Hoffenheim",
+            "logo": "https://i.imgur.com/gF0PfEl.png"
+          },
+          "away": {
+            "id": "bayer-04-leverkusen",
+            "providerId": 6,
+            "name": "Bayer 04 Leverkusen",
+            "shortName": "Leverkusen",
+            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-09-10T15:26:20Z",
+          "prediction": null,
+          "odds": null
+        },
+        {
+          "id": "openligadb:83214",
+          "providerId": 83214,
+          "matchday": 7,
+          "kickoff": "2026-10-25T16:30:00Z",
+          "status": "SCHEDULED",
+          "statusDerived": true,
+          "home": {
+            "id": "sc-freiburg",
+            "providerId": 112,
+            "name": "SC Freiburg",
+            "shortName": "Freiburg",
+            "logo": "https://i.imgur.com/r3mvi0h.png"
+          },
+          "away": {
+            "id": "fc-bayern-munchen",
+            "providerId": 40,
+            "name": "FC Bayern München",
+            "shortName": "Bayern",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-09-10T15:26:33Z",
+          "prediction": null,
+          "odds": null
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "matches": [
+        {
+          "id": "openligadb:83227",
+          "providerId": 83227,
+          "matchday": 8,
+          "kickoff": "2026-10-30T19:30:00Z",
+          "status": "SCHEDULED",
+          "statusDerived": true,
+          "home": {
+            "id": "sv-07-elversberg",
+            "providerId": 198,
+            "name": "SV 07 Elversberg",
+            "shortName": "Elversberg",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/SV_Elversberg_Logo.svg/500px-SV_Elversberg_Logo.svg.png"
+          },
+          "away": {
+            "id": "1-fsv-mainz-05",
+            "providerId": 81,
+            "name": "1. FSV Mainz 05",
+            "shortName": "Mainz",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_Mainz_05.svg"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-09-10T15:26:59Z",
           "prediction": null,
           "odds": null
         },
@@ -2195,39 +2195,6 @@
           "odds": null
         },
         {
-          "id": "openligadb:83221",
-          "providerId": 83221,
-          "matchday": 8,
-          "kickoff": "2026-10-31T14:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
-          "home": {
-            "id": "eintracht-frankfurt",
-            "providerId": 91,
-            "name": "Eintracht Frankfurt",
-            "shortName": "Frankfurt",
-            "logo": "https://i.imgur.com/X8NFkOb.png"
-          },
-          "away": {
-            "id": "hamburger-sv",
-            "providerId": 100,
-            "name": "Hamburger SV",
-            "shortName": "HSV",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg"
-          },
-          "score": {
-            "home": null,
-            "away": null
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-07-03T06:10:14Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
           "id": "openligadb:83222",
           "providerId": 83222,
           "matchday": 8,
@@ -2257,39 +2224,6 @@
             "city": null
           },
           "lastUpdated": "2026-07-03T06:10:25Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
-          "id": "openligadb:83223",
-          "providerId": 83223,
-          "matchday": 8,
-          "kickoff": "2026-10-31T14:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
-          "home": {
-            "id": "1-fc-union-berlin",
-            "providerId": 80,
-            "name": "1. FC Union Berlin",
-            "shortName": "Union Berlin",
-            "logo": "https://assets.dfb.de/uploads/000/018/232/small_union-Berlin.jpg"
-          },
-          "away": {
-            "id": "1-fc-koln",
-            "providerId": 65,
-            "name": "1. FC Köln",
-            "shortName": "Köln",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg"
-          },
-          "score": {
-            "home": null,
-            "away": null
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-07-03T06:10:40Z",
           "prediction": null,
           "odds": null
         },
@@ -2393,25 +2327,25 @@
           "odds": null
         },
         {
-          "id": "openligadb:83227",
-          "providerId": 83227,
+          "id": "openligadb:83219",
+          "providerId": 83219,
           "matchday": 8,
-          "kickoff": "2026-10-31T14:30:00Z",
+          "kickoff": "2026-10-31T17:30:00Z",
           "status": "SCHEDULED",
           "statusDerived": true,
           "home": {
-            "id": "sv-07-elversberg",
-            "providerId": 198,
-            "name": "SV 07 Elversberg",
-            "shortName": "Elversberg",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/SV_Elversberg_Logo.svg/500px-SV_Elversberg_Logo.svg.png"
+            "id": "fc-bayern-munchen",
+            "providerId": 40,
+            "name": "FC Bayern München",
+            "shortName": "Bayern",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg"
           },
           "away": {
-            "id": "1-fsv-mainz-05",
-            "providerId": 81,
-            "name": "1. FSV Mainz 05",
-            "shortName": "Mainz",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_Mainz_05.svg"
+            "id": "borussia-dortmund",
+            "providerId": 7,
+            "name": "Borussia Dortmund",
+            "shortName": "Dortmund",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/960px-Borussia_Dortmund_logo.svg.png"
           },
           "score": {
             "home": null,
@@ -2421,7 +2355,73 @@
             "stadium": null,
             "city": null
           },
-          "lastUpdated": "2026-07-03T06:12:07Z",
+          "lastUpdated": "2026-09-10T15:27:12Z",
+          "prediction": null,
+          "odds": null
+        },
+        {
+          "id": "openligadb:83223",
+          "providerId": 83223,
+          "matchday": 8,
+          "kickoff": "2026-11-01T14:30:00Z",
+          "status": "SCHEDULED",
+          "statusDerived": true,
+          "home": {
+            "id": "1-fc-union-berlin",
+            "providerId": 80,
+            "name": "1. FC Union Berlin",
+            "shortName": "Union Berlin",
+            "logo": "https://assets.dfb.de/uploads/000/018/232/small_union-Berlin.jpg"
+          },
+          "away": {
+            "id": "1-fc-koln",
+            "providerId": 65,
+            "name": "1. FC Köln",
+            "shortName": "Köln",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-09-10T15:27:28Z",
+          "prediction": null,
+          "odds": null
+        },
+        {
+          "id": "openligadb:83221",
+          "providerId": 83221,
+          "matchday": 8,
+          "kickoff": "2026-11-01T16:30:00Z",
+          "status": "SCHEDULED",
+          "statusDerived": true,
+          "home": {
+            "id": "eintracht-frankfurt",
+            "providerId": 91,
+            "name": "Eintracht Frankfurt",
+            "shortName": "Frankfurt",
+            "logo": "https://i.imgur.com/X8NFkOb.png"
+          },
+          "away": {
+            "id": "hamburger-sv",
+            "providerId": 100,
+            "name": "Hamburger SV",
+            "shortName": "HSV",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-09-10T15:27:43Z",
           "prediction": null,
           "odds": null
         }
@@ -2430,6 +2430,39 @@
     {
       "number": 9,
       "matches": [
+        {
+          "id": "openligadb:83234",
+          "providerId": 83234,
+          "matchday": 9,
+          "kickoff": "2026-11-06T19:30:00Z",
+          "status": "SCHEDULED",
+          "statusDerived": true,
+          "home": {
+            "id": "hamburger-sv",
+            "providerId": 100,
+            "name": "Hamburger SV",
+            "shortName": "HSV",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg"
+          },
+          "away": {
+            "id": "borussia-monchengladbach",
+            "providerId": 87,
+            "name": "Borussia Mönchengladbach",
+            "shortName": "Gladbach",
+            "logo": "https://i.imgur.com/KSIk0Eu.png"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-09-10T15:28:06Z",
+          "prediction": null,
+          "odds": null
+        },
         {
           "id": "openligadb:83228",
           "providerId": 83228,
@@ -2497,105 +2530,6 @@
           "odds": null
         },
         {
-          "id": "openligadb:83230",
-          "providerId": 83230,
-          "matchday": 9,
-          "kickoff": "2026-11-07T14:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
-          "home": {
-            "id": "vfb-stuttgart",
-            "providerId": 16,
-            "name": "VfB Stuttgart",
-            "shortName": "Stuttgart",
-            "logo": "https://i.imgur.com/v0tkpNx.png"
-          },
-          "away": {
-            "id": "sv-werder-bremen",
-            "providerId": 134,
-            "name": "SV Werder Bremen",
-            "shortName": "Bremen",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg"
-          },
-          "score": {
-            "home": null,
-            "away": null
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-07-03T06:13:43Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
-          "id": "openligadb:83231",
-          "providerId": 83231,
-          "matchday": 9,
-          "kickoff": "2026-11-07T14:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
-          "home": {
-            "id": "tsg-hoffenheim",
-            "providerId": 175,
-            "name": "TSG Hoffenheim",
-            "shortName": "Hoffenheim",
-            "logo": "https://i.imgur.com/gF0PfEl.png"
-          },
-          "away": {
-            "id": "fc-schalke-04",
-            "providerId": 9,
-            "name": "FC Schalke 04",
-            "shortName": "S04",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
-          },
-          "score": {
-            "home": null,
-            "away": null
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-07-03T06:13:53Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
-          "id": "openligadb:83232",
-          "providerId": 83232,
-          "matchday": 9,
-          "kickoff": "2026-11-07T14:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
-          "home": {
-            "id": "sc-freiburg",
-            "providerId": 112,
-            "name": "SC Freiburg",
-            "shortName": "Freiburg",
-            "logo": "https://i.imgur.com/r3mvi0h.png"
-          },
-          "away": {
-            "id": "1-fc-union-berlin",
-            "providerId": 80,
-            "name": "1. FC Union Berlin",
-            "shortName": "Union Berlin",
-            "logo": "https://assets.dfb.de/uploads/000/018/232/small_union-Berlin.jpg"
-          },
-          "score": {
-            "home": null,
-            "away": null
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-07-03T06:14:03Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
           "id": "openligadb:83233",
           "providerId": 83233,
           "matchday": 9,
@@ -2625,72 +2559,6 @@
             "city": null
           },
           "lastUpdated": "2026-07-03T06:14:18Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
-          "id": "openligadb:83234",
-          "providerId": 83234,
-          "matchday": 9,
-          "kickoff": "2026-11-07T14:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
-          "home": {
-            "id": "hamburger-sv",
-            "providerId": 100,
-            "name": "Hamburger SV",
-            "shortName": "HSV",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg"
-          },
-          "away": {
-            "id": "borussia-monchengladbach",
-            "providerId": 87,
-            "name": "Borussia Mönchengladbach",
-            "shortName": "Gladbach",
-            "logo": "https://i.imgur.com/KSIk0Eu.png"
-          },
-          "score": {
-            "home": null,
-            "away": null
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-07-03T06:14:28Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
-          "id": "openligadb:83235",
-          "providerId": 83235,
-          "matchday": 9,
-          "kickoff": "2026-11-07T14:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
-          "home": {
-            "id": "1-fc-koln",
-            "providerId": 65,
-            "name": "1. FC Köln",
-            "shortName": "Köln",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg"
-          },
-          "away": {
-            "id": "bayer-04-leverkusen",
-            "providerId": 6,
-            "name": "Bayer 04 Leverkusen",
-            "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
-          },
-          "score": {
-            "home": null,
-            "away": null
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-07-03T06:14:40Z",
           "prediction": null,
           "odds": null
         },
@@ -2726,6 +2594,138 @@
           "lastUpdated": "2026-07-03T06:14:49Z",
           "prediction": null,
           "odds": null
+        },
+        {
+          "id": "openligadb:83230",
+          "providerId": 83230,
+          "matchday": 9,
+          "kickoff": "2026-11-07T17:30:00Z",
+          "status": "SCHEDULED",
+          "statusDerived": true,
+          "home": {
+            "id": "vfb-stuttgart",
+            "providerId": 16,
+            "name": "VfB Stuttgart",
+            "shortName": "Stuttgart",
+            "logo": "https://i.imgur.com/v0tkpNx.png"
+          },
+          "away": {
+            "id": "sv-werder-bremen",
+            "providerId": 134,
+            "name": "SV Werder Bremen",
+            "shortName": "Bremen",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-09-10T15:28:25Z",
+          "prediction": null,
+          "odds": null
+        },
+        {
+          "id": "openligadb:83235",
+          "providerId": 83235,
+          "matchday": 9,
+          "kickoff": "2026-11-08T14:30:00Z",
+          "status": "SCHEDULED",
+          "statusDerived": true,
+          "home": {
+            "id": "1-fc-koln",
+            "providerId": 65,
+            "name": "1. FC Köln",
+            "shortName": "Köln",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg"
+          },
+          "away": {
+            "id": "bayer-04-leverkusen",
+            "providerId": 6,
+            "name": "Bayer 04 Leverkusen",
+            "shortName": "Leverkusen",
+            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-09-10T15:28:40Z",
+          "prediction": null,
+          "odds": null
+        },
+        {
+          "id": "openligadb:83232",
+          "providerId": 83232,
+          "matchday": 9,
+          "kickoff": "2026-11-08T16:30:00Z",
+          "status": "SCHEDULED",
+          "statusDerived": true,
+          "home": {
+            "id": "sc-freiburg",
+            "providerId": 112,
+            "name": "SC Freiburg",
+            "shortName": "Freiburg",
+            "logo": "https://i.imgur.com/r3mvi0h.png"
+          },
+          "away": {
+            "id": "1-fc-union-berlin",
+            "providerId": 80,
+            "name": "1. FC Union Berlin",
+            "shortName": "Union Berlin",
+            "logo": "https://assets.dfb.de/uploads/000/018/232/small_union-Berlin.jpg"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-09-10T15:28:56Z",
+          "prediction": null,
+          "odds": null
+        },
+        {
+          "id": "openligadb:83231",
+          "providerId": 83231,
+          "matchday": 9,
+          "kickoff": "2026-11-08T18:30:00Z",
+          "status": "SCHEDULED",
+          "statusDerived": true,
+          "home": {
+            "id": "tsg-hoffenheim",
+            "providerId": 175,
+            "name": "TSG Hoffenheim",
+            "shortName": "Hoffenheim",
+            "logo": "https://i.imgur.com/gF0PfEl.png"
+          },
+          "away": {
+            "id": "fc-schalke-04",
+            "providerId": 9,
+            "name": "FC Schalke 04",
+            "shortName": "S04",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-09-10T15:29:08Z",
+          "prediction": null,
+          "odds": null
         }
       ]
     },
@@ -2736,7 +2736,7 @@
           "id": "openligadb:83237",
           "providerId": 83237,
           "matchday": 10,
-          "kickoff": "2026-11-21T14:30:00Z",
+          "kickoff": "2026-11-20T19:30:00Z",
           "status": "SCHEDULED",
           "statusDerived": true,
           "home": {
@@ -2761,7 +2761,7 @@
             "stadium": null,
             "city": null
           },
-          "lastUpdated": "2026-07-03T06:15:30Z",
+          "lastUpdated": "2026-09-10T15:29:43Z",
           "prediction": null,
           "odds": null
         },
@@ -2832,39 +2832,6 @@
           "odds": null
         },
         {
-          "id": "openligadb:83240",
-          "providerId": 83240,
-          "matchday": 10,
-          "kickoff": "2026-11-21T14:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
-          "home": {
-            "id": "fc-augsburg",
-            "providerId": 95,
-            "name": "FC Augsburg",
-            "shortName": "Augsburg",
-            "logo": "https://i.imgur.com/sdE62e2.png"
-          },
-          "away": {
-            "id": "1-fsv-mainz-05",
-            "providerId": 81,
-            "name": "1. FSV Mainz 05",
-            "shortName": "Mainz",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_Mainz_05.svg"
-          },
-          "score": {
-            "home": null,
-            "away": null
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-07-03T06:16:17Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
           "id": "openligadb:83241",
           "providerId": 83241,
           "matchday": 10,
@@ -2931,72 +2898,6 @@
           "odds": null
         },
         {
-          "id": "openligadb:83243",
-          "providerId": 83243,
-          "matchday": 10,
-          "kickoff": "2026-11-21T14:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
-          "home": {
-            "id": "sv-werder-bremen",
-            "providerId": 134,
-            "name": "SV Werder Bremen",
-            "shortName": "Bremen",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg"
-          },
-          "away": {
-            "id": "hamburger-sv",
-            "providerId": 100,
-            "name": "Hamburger SV",
-            "shortName": "HSV",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg"
-          },
-          "score": {
-            "home": null,
-            "away": null
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-07-03T06:16:44Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
-          "id": "openligadb:83244",
-          "providerId": 83244,
-          "matchday": 10,
-          "kickoff": "2026-11-21T14:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
-          "home": {
-            "id": "fc-schalke-04",
-            "providerId": 9,
-            "name": "FC Schalke 04",
-            "shortName": "S04",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
-          },
-          "away": {
-            "id": "vfb-stuttgart",
-            "providerId": 16,
-            "name": "VfB Stuttgart",
-            "shortName": "Stuttgart",
-            "logo": "https://i.imgur.com/v0tkpNx.png"
-          },
-          "score": {
-            "home": null,
-            "away": null
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-07-03T06:16:54Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
           "id": "openligadb:83245",
           "providerId": 83245,
           "matchday": 10,
@@ -3028,6 +2929,105 @@
           "lastUpdated": "2026-07-03T06:17:04Z",
           "prediction": null,
           "odds": null
+        },
+        {
+          "id": "openligadb:83244",
+          "providerId": 83244,
+          "matchday": 10,
+          "kickoff": "2026-11-21T17:30:00Z",
+          "status": "SCHEDULED",
+          "statusDerived": true,
+          "home": {
+            "id": "fc-schalke-04",
+            "providerId": 9,
+            "name": "FC Schalke 04",
+            "shortName": "S04",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
+          },
+          "away": {
+            "id": "vfb-stuttgart",
+            "providerId": 16,
+            "name": "VfB Stuttgart",
+            "shortName": "Stuttgart",
+            "logo": "https://i.imgur.com/v0tkpNx.png"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-09-10T15:29:58Z",
+          "prediction": null,
+          "odds": null
+        },
+        {
+          "id": "openligadb:83240",
+          "providerId": 83240,
+          "matchday": 10,
+          "kickoff": "2026-11-22T14:30:00Z",
+          "status": "SCHEDULED",
+          "statusDerived": true,
+          "home": {
+            "id": "fc-augsburg",
+            "providerId": 95,
+            "name": "FC Augsburg",
+            "shortName": "Augsburg",
+            "logo": "https://i.imgur.com/sdE62e2.png"
+          },
+          "away": {
+            "id": "1-fsv-mainz-05",
+            "providerId": 81,
+            "name": "1. FSV Mainz 05",
+            "shortName": "Mainz",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_Mainz_05.svg"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-09-10T15:30:08Z",
+          "prediction": null,
+          "odds": null
+        },
+        {
+          "id": "openligadb:83243",
+          "providerId": 83243,
+          "matchday": 10,
+          "kickoff": "2026-11-22T16:30:00Z",
+          "status": "SCHEDULED",
+          "statusDerived": true,
+          "home": {
+            "id": "sv-werder-bremen",
+            "providerId": 134,
+            "name": "SV Werder Bremen",
+            "shortName": "Bremen",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg"
+          },
+          "away": {
+            "id": "hamburger-sv",
+            "providerId": 100,
+            "name": "Hamburger SV",
+            "shortName": "HSV",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-09-10T15:30:25Z",
+          "prediction": null,
+          "odds": null
         }
       ]
     },
@@ -3035,25 +3035,25 @@
       "number": 11,
       "matches": [
         {
-          "id": "openligadb:83246",
-          "providerId": 83246,
+          "id": "openligadb:83253",
+          "providerId": 83253,
           "matchday": 11,
-          "kickoff": "2026-11-28T14:30:00Z",
+          "kickoff": "2026-11-27T19:30:00Z",
           "status": "SCHEDULED",
           "statusDerived": true,
           "home": {
-            "id": "borussia-dortmund",
-            "providerId": 7,
-            "name": "Borussia Dortmund",
-            "shortName": "Dortmund",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/960px-Borussia_Dortmund_logo.svg.png"
+            "id": "sv-werder-bremen",
+            "providerId": 134,
+            "name": "SV Werder Bremen",
+            "shortName": "Bremen",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg"
           },
           "away": {
-            "id": "bayer-04-leverkusen",
-            "providerId": 6,
-            "name": "Bayer 04 Leverkusen",
-            "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "id": "borussia-monchengladbach",
+            "providerId": 87,
+            "name": "Borussia Mönchengladbach",
+            "shortName": "Gladbach",
+            "logo": "https://i.imgur.com/KSIk0Eu.png"
           },
           "score": {
             "home": null,
@@ -3063,106 +3063,7 @@
             "stadium": null,
             "city": null
           },
-          "lastUpdated": "2026-07-03T06:17:38Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
-          "id": "openligadb:83247",
-          "providerId": 83247,
-          "matchday": 11,
-          "kickoff": "2026-11-28T14:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
-          "home": {
-            "id": "vfb-stuttgart",
-            "providerId": 16,
-            "name": "VfB Stuttgart",
-            "shortName": "Stuttgart",
-            "logo": "https://i.imgur.com/v0tkpNx.png"
-          },
-          "away": {
-            "id": "eintracht-frankfurt",
-            "providerId": 91,
-            "name": "Eintracht Frankfurt",
-            "shortName": "Frankfurt",
-            "logo": "https://i.imgur.com/X8NFkOb.png"
-          },
-          "score": {
-            "home": null,
-            "away": null
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-07-03T06:17:53Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
-          "id": "openligadb:83248",
-          "providerId": 83248,
-          "matchday": 11,
-          "kickoff": "2026-11-28T14:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
-          "home": {
-            "id": "tsg-hoffenheim",
-            "providerId": 175,
-            "name": "TSG Hoffenheim",
-            "shortName": "Hoffenheim",
-            "logo": "https://i.imgur.com/gF0PfEl.png"
-          },
-          "away": {
-            "id": "fc-augsburg",
-            "providerId": 95,
-            "name": "FC Augsburg",
-            "shortName": "Augsburg",
-            "logo": "https://i.imgur.com/sdE62e2.png"
-          },
-          "score": {
-            "home": null,
-            "away": null
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-07-03T06:18:06Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
-          "id": "openligadb:83249",
-          "providerId": 83249,
-          "matchday": 11,
-          "kickoff": "2026-11-28T14:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
-          "home": {
-            "id": "sc-freiburg",
-            "providerId": 112,
-            "name": "SC Freiburg",
-            "shortName": "Freiburg",
-            "logo": "https://i.imgur.com/r3mvi0h.png"
-          },
-          "away": {
-            "id": "rb-leipzig",
-            "providerId": 1635,
-            "name": "RB Leipzig",
-            "shortName": "Leipzig",
-            "logo": "https://i.imgur.com/Rpwsjz1.png"
-          },
-          "score": {
-            "home": null,
-            "away": null
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-07-03T06:18:19Z",
+          "lastUpdated": "2026-09-10T15:30:53Z",
           "prediction": null,
           "odds": null
         },
@@ -3266,39 +3167,6 @@
           "odds": null
         },
         {
-          "id": "openligadb:83253",
-          "providerId": 83253,
-          "matchday": 11,
-          "kickoff": "2026-11-28T14:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
-          "home": {
-            "id": "sv-werder-bremen",
-            "providerId": 134,
-            "name": "SV Werder Bremen",
-            "shortName": "Bremen",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg"
-          },
-          "away": {
-            "id": "borussia-monchengladbach",
-            "providerId": 87,
-            "name": "Borussia Mönchengladbach",
-            "shortName": "Gladbach",
-            "logo": "https://i.imgur.com/KSIk0Eu.png"
-          },
-          "score": {
-            "home": null,
-            "away": null
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-07-03T06:19:27Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
           "id": "openligadb:83254",
           "providerId": 83254,
           "matchday": 11,
@@ -3328,6 +3196,138 @@
             "city": null
           },
           "lastUpdated": "2026-07-03T06:19:37Z",
+          "prediction": null,
+          "odds": null
+        },
+        {
+          "id": "openligadb:83247",
+          "providerId": 83247,
+          "matchday": 11,
+          "kickoff": "2026-11-28T17:30:00Z",
+          "status": "SCHEDULED",
+          "statusDerived": true,
+          "home": {
+            "id": "vfb-stuttgart",
+            "providerId": 16,
+            "name": "VfB Stuttgart",
+            "shortName": "Stuttgart",
+            "logo": "https://i.imgur.com/v0tkpNx.png"
+          },
+          "away": {
+            "id": "eintracht-frankfurt",
+            "providerId": 91,
+            "name": "Eintracht Frankfurt",
+            "shortName": "Frankfurt",
+            "logo": "https://i.imgur.com/X8NFkOb.png"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-09-10T15:31:08Z",
+          "prediction": null,
+          "odds": null
+        },
+        {
+          "id": "openligadb:83249",
+          "providerId": 83249,
+          "matchday": 11,
+          "kickoff": "2026-11-29T14:30:00Z",
+          "status": "SCHEDULED",
+          "statusDerived": true,
+          "home": {
+            "id": "sc-freiburg",
+            "providerId": 112,
+            "name": "SC Freiburg",
+            "shortName": "Freiburg",
+            "logo": "https://i.imgur.com/r3mvi0h.png"
+          },
+          "away": {
+            "id": "rb-leipzig",
+            "providerId": 1635,
+            "name": "RB Leipzig",
+            "shortName": "Leipzig",
+            "logo": "https://i.imgur.com/Rpwsjz1.png"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-09-10T15:31:20Z",
+          "prediction": null,
+          "odds": null
+        },
+        {
+          "id": "openligadb:83248",
+          "providerId": 83248,
+          "matchday": 11,
+          "kickoff": "2026-11-29T16:30:00Z",
+          "status": "SCHEDULED",
+          "statusDerived": true,
+          "home": {
+            "id": "tsg-hoffenheim",
+            "providerId": 175,
+            "name": "TSG Hoffenheim",
+            "shortName": "Hoffenheim",
+            "logo": "https://i.imgur.com/gF0PfEl.png"
+          },
+          "away": {
+            "id": "fc-augsburg",
+            "providerId": 95,
+            "name": "FC Augsburg",
+            "shortName": "Augsburg",
+            "logo": "https://i.imgur.com/sdE62e2.png"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-09-10T15:31:33Z",
+          "prediction": null,
+          "odds": null
+        },
+        {
+          "id": "openligadb:83246",
+          "providerId": 83246,
+          "matchday": 11,
+          "kickoff": "2026-11-29T18:30:00Z",
+          "status": "SCHEDULED",
+          "statusDerived": true,
+          "home": {
+            "id": "borussia-dortmund",
+            "providerId": 7,
+            "name": "Borussia Dortmund",
+            "shortName": "Dortmund",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/960px-Borussia_Dortmund_logo.svg.png"
+          },
+          "away": {
+            "id": "bayer-04-leverkusen",
+            "providerId": 6,
+            "name": "Bayer 04 Leverkusen",
+            "shortName": "Leverkusen",
+            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-09-10T15:31:47Z",
           "prediction": null,
           "odds": null
         }
