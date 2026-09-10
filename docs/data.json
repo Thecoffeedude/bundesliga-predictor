@@ -8,7 +8,7 @@
     "timezone": "Europe/Berlin",
     "format": "league"
   },
-  "updated_at": "2026-09-10T09:22:56Z",
+  "updated_at": "2026-09-10T14:54:57Z",
   "current_matchday": 3,
   "matchdays": [
     {
@@ -609,7 +609,7 @@
             "stadium": null,
             "city": null
           },
-          "lastUpdated": "2026-09-06T17:21:32Z",
+          "lastUpdated": "2026-09-10T10:22:09Z",
           "prediction": null,
           "odds": null
         }
