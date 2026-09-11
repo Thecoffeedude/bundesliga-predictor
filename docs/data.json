@@ -8,7 +8,7 @@
     "timezone": "Europe/Berlin",
     "format": "league"
   },
-  "updated_at": "2026-09-11T18:13:56Z",
+  "updated_at": "2026-09-11T21:09:54Z",
   "current_matchday": 3,
   "matchdays": [
     {
@@ -623,8 +623,8 @@
           "providerId": 83180,
           "matchday": 3,
           "kickoff": "2026-09-11T18:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
+          "status": "FINISHED",
+          "statusDerived": false,
           "home": {
             "id": "1-fc-union-berlin",
             "providerId": 80,
@@ -640,14 +640,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
           },
           "score": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 3
           },
           "venue": {
             "stadium": null,
             "city": null
           },
-          "lastUpdated": "2026-07-15T09:47:38Z",
+          "lastUpdated": "2026-09-11T20:49:06Z",
           "prediction": null,
           "odds": null
         },
@@ -10355,6 +10355,18 @@
     },
     {
       "position": 7,
+      "team_id": "fc-schalke-04",
+      "played": 3,
+      "won": 1,
+      "drawn": 1,
+      "lost": 1,
+      "goals_for": 3,
+      "goals_against": 4,
+      "goal_difference": -1,
+      "points": 4
+    },
+    {
+      "position": 8,
       "team_id": "bayer-04-leverkusen",
       "played": 2,
       "won": 1,
@@ -10366,7 +10378,7 @@
       "points": 3
     },
     {
-      "position": 8,
+      "position": 9,
       "team_id": "rb-leipzig",
       "played": 2,
       "won": 1,
@@ -10378,7 +10390,7 @@
       "points": 3
     },
     {
-      "position": 9,
+      "position": 10,
       "team_id": "vfb-stuttgart",
       "played": 2,
       "won": 1,
@@ -10390,7 +10402,7 @@
       "points": 3
     },
     {
-      "position": 10,
+      "position": 11,
       "team_id": "sv-werder-bremen",
       "played": 2,
       "won": 1,
@@ -10402,7 +10414,7 @@
       "points": 3
     },
     {
-      "position": 11,
+      "position": 12,
       "team_id": "1-fc-koln",
       "played": 2,
       "won": 1,
@@ -10414,7 +10426,7 @@
       "points": 3
     },
     {
-      "position": 12,
+      "position": 13,
       "team_id": "sc-paderborn-07",
       "played": 2,
       "won": 0,
@@ -10426,7 +10438,7 @@
       "points": 1
     },
     {
-      "position": 13,
+      "position": 14,
       "team_id": "eintracht-frankfurt",
       "played": 2,
       "won": 0,
@@ -10438,27 +10450,15 @@
       "points": 1
     },
     {
-      "position": 14,
-      "team_id": "fc-schalke-04",
-      "played": 2,
-      "won": 0,
-      "drawn": 1,
-      "lost": 1,
-      "goals_for": 0,
-      "goals_against": 3,
-      "goal_difference": -3,
-      "points": 1
-    },
-    {
       "position": 15,
       "team_id": "1-fc-union-berlin",
-      "played": 2,
+      "played": 3,
       "won": 0,
       "drawn": 1,
-      "lost": 1,
-      "goals_for": 3,
-      "goals_against": 7,
-      "goal_difference": -4,
+      "lost": 2,
+      "goals_for": 4,
+      "goals_against": 10,
+      "goal_difference": -6,
       "points": 1
     },
     {
