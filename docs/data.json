@@ -8,7 +8,7 @@
     "timezone": "Europe/Berlin",
     "format": "league"
   },
-  "updated_at": "2026-09-12T16:48:33Z",
+  "updated_at": "2026-09-12T19:00:26Z",
   "current_matchday": 3,
   "matchdays": [
     {
@@ -821,8 +821,8 @@
           "providerId": 83181,
           "matchday": 3,
           "kickoff": "2026-09-12T16:30:00Z",
-          "status": "LIVE_OR_ONGOING",
-          "statusDerived": true,
+          "status": "FINISHED",
+          "statusDerived": false,
           "home": {
             "id": "1-fc-koln",
             "providerId": 65,
@@ -838,14 +838,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg"
           },
           "score": {
-            "home": 0,
-            "away": 0
+            "home": 1,
+            "away": 1
           },
           "venue": {
             "stadium": null,
             "city": null
           },
-          "lastUpdated": "2026-09-12T16:35:59Z",
+          "lastUpdated": "2026-09-12T18:24:11Z",
           "prediction": null,
           "odds": null
         },
@@ -10384,8 +10384,8 @@
       "won": 1,
       "drawn": 1,
       "lost": 1,
-      "goals_for": 4,
-      "goals_against": 5,
+      "goals_for": 5,
+      "goals_against": 6,
       "goal_difference": -1,
       "points": 4
     },
@@ -10408,8 +10408,8 @@
       "won": 1,
       "drawn": 1,
       "lost": 1,
-      "goals_for": 4,
-      "goals_against": 6,
+      "goals_for": 5,
+      "goals_against": 7,
       "goal_difference": -2,
       "points": 4
     },
