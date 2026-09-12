@@ -8,7 +8,7 @@
     "timezone": "Europe/Berlin",
     "format": "league"
   },
-  "updated_at": "2026-09-12T13:54:44Z",
+  "updated_at": "2026-09-12T16:48:33Z",
   "current_matchday": 3,
   "matchdays": [
     {
@@ -656,8 +656,8 @@
           "providerId": 83174,
           "matchday": 3,
           "kickoff": "2026-09-12T13:30:00Z",
-          "status": "LIVE_OR_ONGOING",
-          "statusDerived": true,
+          "status": "FINISHED",
+          "statusDerived": false,
           "home": {
             "id": "borussia-dortmund",
             "providerId": 7,
@@ -673,14 +673,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/SC_Paderborn_07_Logo.svg"
           },
           "score": {
-            "home": 1,
+            "home": 3,
             "away": 0
           },
           "venue": {
             "stadium": null,
             "city": null
           },
-          "lastUpdated": "2026-09-12T13:42:55Z",
+          "lastUpdated": "2026-09-12T15:23:31Z",
           "prediction": null,
           "odds": null
         },
@@ -689,8 +689,8 @@
           "providerId": 83176,
           "matchday": 3,
           "kickoff": "2026-09-12T13:30:00Z",
-          "status": "LIVE_OR_ONGOING",
-          "statusDerived": true,
+          "status": "FINISHED",
+          "statusDerived": false,
           "home": {
             "id": "tsg-hoffenheim",
             "providerId": 175,
@@ -706,14 +706,14 @@
             "logo": "https://i.imgur.com/v0tkpNx.png"
           },
           "score": {
-            "home": 1,
-            "away": 0
+            "home": 2,
+            "away": 1
           },
           "venue": {
             "stadium": null,
             "city": null
           },
-          "lastUpdated": "2026-09-12T13:44:22Z",
+          "lastUpdated": "2026-09-12T15:26:43Z",
           "prediction": null,
           "odds": null
         },
@@ -722,8 +722,8 @@
           "providerId": 83177,
           "matchday": 3,
           "kickoff": "2026-09-12T13:30:00Z",
-          "status": "LIVE_OR_ONGOING",
-          "statusDerived": true,
+          "status": "FINISHED",
+          "statusDerived": false,
           "home": {
             "id": "sc-freiburg",
             "providerId": 112,
@@ -739,14 +739,14 @@
             "logo": "https://i.imgur.com/KSIk0Eu.png"
           },
           "score": {
-            "home": 1,
+            "home": 5,
             "away": 0
           },
           "venue": {
             "stadium": null,
             "city": null
           },
-          "lastUpdated": "2026-09-12T13:53:38Z",
+          "lastUpdated": "2026-09-12T15:54:48Z",
           "prediction": null,
           "odds": null
         },
@@ -755,8 +755,8 @@
           "providerId": 83178,
           "matchday": 3,
           "kickoff": "2026-09-12T13:30:00Z",
-          "status": "LIVE_OR_ONGOING",
-          "statusDerived": true,
+          "status": "FINISHED",
+          "statusDerived": false,
           "home": {
             "id": "fc-augsburg",
             "providerId": 95,
@@ -772,14 +772,14 @@
             "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
           },
           "score": {
-            "home": 0,
-            "away": 1
+            "home": 2,
+            "away": 2
           },
           "venue": {
             "stadium": null,
             "city": null
           },
-          "lastUpdated": "2026-09-12T13:48:29Z",
+          "lastUpdated": "2026-09-12T15:24:51Z",
           "prediction": null,
           "odds": null
         },
@@ -788,8 +788,8 @@
           "providerId": 83179,
           "matchday": 3,
           "kickoff": "2026-09-12T13:30:00Z",
-          "status": "LIVE_OR_ONGOING",
-          "statusDerived": true,
+          "status": "FINISHED",
+          "statusDerived": false,
           "home": {
             "id": "1-fsv-mainz-05",
             "providerId": 81,
@@ -805,14 +805,14 @@
             "logo": "https://i.imgur.com/X8NFkOb.png"
           },
           "score": {
-            "home": 0,
-            "away": 1
+            "home": 1,
+            "away": 3
           },
           "venue": {
             "stadium": null,
             "city": null
           },
-          "lastUpdated": "2026-09-12T13:42:25Z",
+          "lastUpdated": "2026-09-12T15:23:21Z",
           "prediction": null,
           "odds": null
         },
@@ -821,7 +821,7 @@
           "providerId": 83181,
           "matchday": 3,
           "kickoff": "2026-09-12T16:30:00Z",
-          "status": "SCHEDULED",
+          "status": "LIVE_OR_ONGOING",
           "statusDerived": true,
           "home": {
             "id": "1-fc-koln",
@@ -838,14 +838,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg"
           },
           "score": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
           },
           "venue": {
             "stadium": null,
             "city": null
           },
-          "lastUpdated": "2026-07-15T09:48:14Z",
+          "lastUpdated": "2026-09-12T16:35:59Z",
           "prediction": null,
           "odds": null
         },
@@ -10288,9 +10288,9 @@
       "won": 3,
       "drawn": 0,
       "lost": 0,
-      "goals_for": 6,
+      "goals_for": 10,
       "goals_against": 1,
-      "goal_difference": 5,
+      "goal_difference": 9,
       "points": 9
     },
     {
@@ -10300,9 +10300,9 @@
       "won": 3,
       "drawn": 0,
       "lost": 0,
-      "goals_for": 6,
+      "goals_for": 8,
       "goals_against": 2,
-      "goal_difference": 4,
+      "goal_difference": 6,
       "points": 9
     },
     {
@@ -10310,27 +10310,15 @@
       "team_id": "fc-augsburg",
       "played": 3,
       "won": 2,
-      "drawn": 0,
-      "lost": 1,
-      "goals_for": 7,
-      "goals_against": 2,
-      "goal_difference": 5,
-      "points": 6
+      "drawn": 1,
+      "lost": 0,
+      "goals_for": 9,
+      "goals_against": 3,
+      "goal_difference": 6,
+      "points": 7
     },
     {
       "position": 4,
-      "team_id": "bayer-04-leverkusen",
-      "played": 3,
-      "won": 2,
-      "drawn": 0,
-      "lost": 1,
-      "goals_for": 7,
-      "goals_against": 3,
-      "goal_difference": 4,
-      "points": 6
-    },
-    {
-      "position": 5,
       "team_id": "sv-07-elversberg",
       "played": 2,
       "won": 2,
@@ -10342,19 +10330,7 @@
       "points": 6
     },
     {
-      "position": 6,
-      "team_id": "1-fsv-mainz-05",
-      "played": 3,
-      "won": 1,
-      "drawn": 1,
-      "lost": 1,
-      "goals_for": 5,
-      "goals_against": 1,
-      "goal_difference": 4,
-      "points": 4
-    },
-    {
-      "position": 7,
+      "position": 5,
       "team_id": "fc-bayern-munchen",
       "played": 2,
       "won": 1,
@@ -10366,7 +10342,55 @@
       "points": 4
     },
     {
+      "position": 6,
+      "team_id": "bayer-04-leverkusen",
+      "played": 3,
+      "won": 1,
+      "drawn": 1,
+      "lost": 1,
+      "goals_for": 8,
+      "goals_against": 5,
+      "goal_difference": 3,
+      "points": 4
+    },
+    {
+      "position": 7,
+      "team_id": "1-fsv-mainz-05",
+      "played": 3,
+      "won": 1,
+      "drawn": 1,
+      "lost": 1,
+      "goals_for": 6,
+      "goals_against": 3,
+      "goal_difference": 3,
+      "points": 4
+    },
+    {
       "position": 8,
+      "team_id": "eintracht-frankfurt",
+      "played": 3,
+      "won": 1,
+      "drawn": 1,
+      "lost": 1,
+      "goals_for": 7,
+      "goals_against": 8,
+      "goal_difference": -1,
+      "points": 4
+    },
+    {
+      "position": 9,
+      "team_id": "sv-werder-bremen",
+      "played": 3,
+      "won": 1,
+      "drawn": 1,
+      "lost": 1,
+      "goals_for": 4,
+      "goals_against": 5,
+      "goal_difference": -1,
+      "points": 4
+    },
+    {
+      "position": 10,
       "team_id": "fc-schalke-04",
       "played": 3,
       "won": 1,
@@ -10378,19 +10402,19 @@
       "points": 4
     },
     {
-      "position": 9,
-      "team_id": "eintracht-frankfurt",
+      "position": 11,
+      "team_id": "1-fc-koln",
       "played": 3,
       "won": 1,
       "drawn": 1,
       "lost": 1,
-      "goals_for": 5,
-      "goals_against": 7,
+      "goals_for": 4,
+      "goals_against": 6,
       "goal_difference": -2,
       "points": 4
     },
     {
-      "position": 10,
+      "position": 12,
       "team_id": "rb-leipzig",
       "played": 2,
       "won": 1,
@@ -10402,50 +10426,26 @@
       "points": 3
     },
     {
-      "position": 11,
+      "position": 13,
       "team_id": "tsg-hoffenheim",
       "played": 3,
       "won": 1,
       "drawn": 0,
       "lost": 2,
-      "goals_for": 5,
-      "goals_against": 6,
+      "goals_for": 6,
+      "goals_against": 7,
       "goal_difference": -1,
       "points": 3
     },
     {
-      "position": 12,
-      "team_id": "sv-werder-bremen",
-      "played": 2,
-      "won": 1,
-      "drawn": 0,
-      "lost": 1,
-      "goals_for": 4,
-      "goals_against": 5,
-      "goal_difference": -1,
-      "points": 3
-    },
-    {
-      "position": 13,
+      "position": 14,
       "team_id": "vfb-stuttgart",
       "played": 3,
       "won": 1,
       "drawn": 0,
       "lost": 2,
-      "goals_for": 5,
-      "goals_against": 7,
-      "goal_difference": -2,
-      "points": 3
-    },
-    {
-      "position": 14,
-      "team_id": "1-fc-koln",
-      "played": 2,
-      "won": 1,
-      "drawn": 0,
-      "lost": 1,
-      "goals_for": 4,
-      "goals_against": 6,
+      "goals_for": 6,
+      "goals_against": 8,
       "goal_difference": -2,
       "points": 3
     },
@@ -10457,8 +10457,8 @@
       "drawn": 1,
       "lost": 2,
       "goals_for": 0,
-      "goals_against": 2,
-      "goal_difference": -2,
+      "goals_against": 4,
+      "goal_difference": -4,
       "points": 1
     },
     {
@@ -10475,18 +10475,6 @@
     },
     {
       "position": 17,
-      "team_id": "borussia-monchengladbach",
-      "played": 3,
-      "won": 0,
-      "drawn": 0,
-      "lost": 3,
-      "goals_for": 3,
-      "goals_against": 8,
-      "goal_difference": -5,
-      "points": 0
-    },
-    {
-      "position": 18,
       "team_id": "hamburger-sv",
       "played": 2,
       "won": 0,
@@ -10495,6 +10483,18 @@
       "goals_for": 0,
       "goals_against": 7,
       "goal_difference": -7,
+      "points": 0
+    },
+    {
+      "position": 18,
+      "team_id": "borussia-monchengladbach",
+      "played": 3,
+      "won": 0,
+      "drawn": 0,
+      "lost": 3,
+      "goals_for": 3,
+      "goals_against": 12,
+      "goal_difference": -9,
       "points": 0
     }
   ],
