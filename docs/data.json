@@ -8,7 +8,7 @@
     "timezone": "Europe/Berlin",
     "format": "league"
   },
-  "updated_at": "2026-09-12T23:50:35Z",
+  "updated_at": "2026-09-13T09:59:29Z",
   "current_matchday": 3,
   "matchdays": [
     {
@@ -652,39 +652,6 @@
           "odds": null
         },
         {
-          "id": "openligadb:83174",
-          "providerId": 83174,
-          "matchday": 3,
-          "kickoff": "2026-09-12T13:30:00Z",
-          "status": "FINISHED",
-          "statusDerived": false,
-          "home": {
-            "id": "borussia-dortmund",
-            "providerId": 7,
-            "name": "Borussia Dortmund",
-            "shortName": "Dortmund",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/960px-Borussia_Dortmund_logo.svg.png"
-          },
-          "away": {
-            "id": "sc-paderborn-07",
-            "providerId": 31,
-            "name": "SC Paderborn 07",
-            "shortName": "Paderborn",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/SC_Paderborn_07_Logo.svg"
-          },
-          "score": {
-            "home": 3,
-            "away": 0
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-09-12T15:23:31Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
           "id": "openligadb:83176",
           "providerId": 83176,
           "matchday": 3,
@@ -714,6 +681,39 @@
             "city": null
           },
           "lastUpdated": "2026-09-12T15:26:43Z",
+          "prediction": null,
+          "odds": null
+        },
+        {
+          "id": "openligadb:83174",
+          "providerId": 83174,
+          "matchday": 3,
+          "kickoff": "2026-09-12T13:30:00Z",
+          "status": "FINISHED",
+          "statusDerived": false,
+          "home": {
+            "id": "borussia-dortmund",
+            "providerId": 7,
+            "name": "Borussia Dortmund",
+            "shortName": "Dortmund",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/960px-Borussia_Dortmund_logo.svg.png"
+          },
+          "away": {
+            "id": "sc-paderborn-07",
+            "providerId": 31,
+            "name": "SC Paderborn 07",
+            "shortName": "Paderborn",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/SC_Paderborn_07_Logo.svg"
+          },
+          "score": {
+            "home": 3,
+            "away": 0
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-09-12T15:23:31Z",
           "prediction": null,
           "odds": null
         },
