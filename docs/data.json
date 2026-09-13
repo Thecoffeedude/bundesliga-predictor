@@ -8,7 +8,7 @@
     "timezone": "Europe/Berlin",
     "format": "league"
   },
-  "updated_at": "2026-09-13T09:59:29Z",
+  "updated_at": "2026-09-13T14:49:40Z",
   "current_matchday": 3,
   "matchdays": [
     {
@@ -652,39 +652,6 @@
           "odds": null
         },
         {
-          "id": "openligadb:83176",
-          "providerId": 83176,
-          "matchday": 3,
-          "kickoff": "2026-09-12T13:30:00Z",
-          "status": "FINISHED",
-          "statusDerived": false,
-          "home": {
-            "id": "tsg-hoffenheim",
-            "providerId": 175,
-            "name": "TSG Hoffenheim",
-            "shortName": "Hoffenheim",
-            "logo": "https://i.imgur.com/gF0PfEl.png"
-          },
-          "away": {
-            "id": "vfb-stuttgart",
-            "providerId": 16,
-            "name": "VfB Stuttgart",
-            "shortName": "Stuttgart",
-            "logo": "https://i.imgur.com/v0tkpNx.png"
-          },
-          "score": {
-            "home": 2,
-            "away": 1
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-09-12T15:26:43Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
           "id": "openligadb:83174",
           "providerId": 83174,
           "matchday": 3,
@@ -714,6 +681,39 @@
             "city": null
           },
           "lastUpdated": "2026-09-12T15:23:31Z",
+          "prediction": null,
+          "odds": null
+        },
+        {
+          "id": "openligadb:83176",
+          "providerId": 83176,
+          "matchday": 3,
+          "kickoff": "2026-09-12T13:30:00Z",
+          "status": "FINISHED",
+          "statusDerived": false,
+          "home": {
+            "id": "tsg-hoffenheim",
+            "providerId": 175,
+            "name": "TSG Hoffenheim",
+            "shortName": "Hoffenheim",
+            "logo": "https://i.imgur.com/gF0PfEl.png"
+          },
+          "away": {
+            "id": "vfb-stuttgart",
+            "providerId": 16,
+            "name": "VfB Stuttgart",
+            "shortName": "Stuttgart",
+            "logo": "https://i.imgur.com/v0tkpNx.png"
+          },
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-09-12T15:26:43Z",
           "prediction": null,
           "odds": null
         },
@@ -854,7 +854,7 @@
           "providerId": 83175,
           "matchday": 3,
           "kickoff": "2026-09-13T13:30:00Z",
-          "status": "SCHEDULED",
+          "status": "LIVE_OR_ONGOING",
           "statusDerived": true,
           "home": {
             "id": "rb-leipzig",
@@ -871,14 +871,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg"
           },
           "score": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 0
           },
           "venue": {
             "stadium": null,
             "city": null
           },
-          "lastUpdated": "2026-07-15T09:48:32Z",
+          "lastUpdated": "2026-09-13T14:17:59Z",
           "prediction": null,
           "odds": null
         },
@@ -10319,6 +10319,18 @@
     },
     {
       "position": 4,
+      "team_id": "rb-leipzig",
+      "played": 3,
+      "won": 2,
+      "drawn": 0,
+      "lost": 1,
+      "goals_for": 6,
+      "goals_against": 3,
+      "goal_difference": 3,
+      "points": 6
+    },
+    {
+      "position": 5,
       "team_id": "sv-07-elversberg",
       "played": 2,
       "won": 2,
@@ -10330,7 +10342,7 @@
       "points": 6
     },
     {
-      "position": 5,
+      "position": 6,
       "team_id": "fc-bayern-munchen",
       "played": 2,
       "won": 1,
@@ -10342,7 +10354,7 @@
       "points": 4
     },
     {
-      "position": 6,
+      "position": 7,
       "team_id": "bayer-04-leverkusen",
       "played": 3,
       "won": 1,
@@ -10354,7 +10366,7 @@
       "points": 4
     },
     {
-      "position": 7,
+      "position": 8,
       "team_id": "1-fsv-mainz-05",
       "played": 3,
       "won": 1,
@@ -10366,7 +10378,7 @@
       "points": 4
     },
     {
-      "position": 8,
+      "position": 9,
       "team_id": "eintracht-frankfurt",
       "played": 3,
       "won": 1,
@@ -10378,7 +10390,7 @@
       "points": 4
     },
     {
-      "position": 9,
+      "position": 10,
       "team_id": "sv-werder-bremen",
       "played": 3,
       "won": 1,
@@ -10390,7 +10402,7 @@
       "points": 4
     },
     {
-      "position": 10,
+      "position": 11,
       "team_id": "fc-schalke-04",
       "played": 3,
       "won": 1,
@@ -10402,7 +10414,7 @@
       "points": 4
     },
     {
-      "position": 11,
+      "position": 12,
       "team_id": "1-fc-koln",
       "played": 3,
       "won": 1,
@@ -10412,18 +10424,6 @@
       "goals_against": 7,
       "goal_difference": -2,
       "points": 4
-    },
-    {
-      "position": 12,
-      "team_id": "rb-leipzig",
-      "played": 2,
-      "won": 1,
-      "drawn": 0,
-      "lost": 1,
-      "goals_for": 4,
-      "goals_against": 3,
-      "goal_difference": 1,
-      "points": 3
     },
     {
       "position": 13,
@@ -10475,18 +10475,6 @@
     },
     {
       "position": 17,
-      "team_id": "hamburger-sv",
-      "played": 2,
-      "won": 0,
-      "drawn": 0,
-      "lost": 2,
-      "goals_for": 0,
-      "goals_against": 7,
-      "goal_difference": -7,
-      "points": 0
-    },
-    {
-      "position": 18,
       "team_id": "borussia-monchengladbach",
       "played": 3,
       "won": 0,
@@ -10494,6 +10482,18 @@
       "lost": 3,
       "goals_for": 3,
       "goals_against": 12,
+      "goal_difference": -9,
+      "points": 0
+    },
+    {
+      "position": 18,
+      "team_id": "hamburger-sv",
+      "played": 3,
+      "won": 0,
+      "drawn": 0,
+      "lost": 3,
+      "goals_for": 0,
+      "goals_against": 9,
       "goal_difference": -9,
       "points": 0
     }
