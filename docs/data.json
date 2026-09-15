@@ -8,7 +8,7 @@
     "timezone": "Europe/Berlin",
     "format": "league"
   },
-  "updated_at": "2026-09-15T19:09:30Z",
+  "updated_at": "2026-09-15T22:24:01Z",
   "current_matchday": 4,
   "matchdays": [
     {
@@ -987,39 +987,6 @@
           "odds": null
         },
         {
-          "id": "openligadb:83188",
-          "providerId": 83188,
-          "matchday": 4,
-          "kickoff": "2026-09-19T13:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
-          "home": {
-            "id": "hamburger-sv",
-            "providerId": 100,
-            "name": "Hamburger SV",
-            "shortName": "HSV",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg"
-          },
-          "away": {
-            "id": "1-fc-koln",
-            "providerId": 65,
-            "name": "1. FC Köln",
-            "shortName": "Köln",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg"
-          },
-          "score": {
-            "home": null,
-            "away": null
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-07-03T06:01:07Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
           "id": "openligadb:83187",
           "providerId": 83187,
           "matchday": 4,
@@ -1049,6 +1016,39 @@
             "city": null
           },
           "lastUpdated": "2026-07-03T06:00:57Z",
+          "prediction": null,
+          "odds": null
+        },
+        {
+          "id": "openligadb:83188",
+          "providerId": 83188,
+          "matchday": 4,
+          "kickoff": "2026-09-19T13:30:00Z",
+          "status": "SCHEDULED",
+          "statusDerived": true,
+          "home": {
+            "id": "hamburger-sv",
+            "providerId": 100,
+            "name": "Hamburger SV",
+            "shortName": "HSV",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg"
+          },
+          "away": {
+            "id": "1-fc-koln",
+            "providerId": 65,
+            "name": "1. FC Köln",
+            "shortName": "Köln",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-07-03T06:01:07Z",
           "prediction": null,
           "odds": null
         },
