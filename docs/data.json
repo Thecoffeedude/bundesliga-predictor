@@ -8,7 +8,7 @@
     "timezone": "Europe/Berlin",
     "format": "league"
   },
-  "updated_at": "2026-09-18T18:07:45Z",
+  "updated_at": "2026-09-18T21:07:42Z",
   "current_matchday": 4,
   "matchdays": [
     {
@@ -925,8 +925,8 @@
           "providerId": 83183,
           "matchday": 4,
           "kickoff": "2026-09-18T18:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
+          "status": "FINISHED",
+          "statusDerived": false,
           "home": {
             "id": "fc-bayern-munchen",
             "providerId": 40,
@@ -942,14 +942,14 @@
             "logo": "https://assets.dfb.de/uploads/000/018/232/small_union-Berlin.jpg"
           },
           "score": {
-            "home": null,
-            "away": null
+            "home": 7,
+            "away": 0
           },
           "venue": {
             "stadium": null,
             "city": null
           },
-          "lastUpdated": "2026-07-15T09:49:09Z",
+          "lastUpdated": "2026-09-18T20:23:06Z",
           "prediction": null,
           "odds": null
         },
@@ -10283,6 +10283,18 @@
   "standings": [
     {
       "position": 1,
+      "team_id": "fc-bayern-munchen",
+      "played": 4,
+      "won": 3,
+      "drawn": 1,
+      "lost": 0,
+      "goals_for": 14,
+      "goals_against": 2,
+      "goal_difference": 12,
+      "points": 10
+    },
+    {
+      "position": 2,
       "team_id": "sc-freiburg",
       "played": 3,
       "won": 3,
@@ -10294,7 +10306,7 @@
       "points": 9
     },
     {
-      "position": 2,
+      "position": 3,
       "team_id": "borussia-dortmund",
       "played": 3,
       "won": 3,
@@ -10306,7 +10318,7 @@
       "points": 9
     },
     {
-      "position": 3,
+      "position": 4,
       "team_id": "fc-augsburg",
       "played": 3,
       "won": 2,
@@ -10315,18 +10327,6 @@
       "goals_for": 9,
       "goals_against": 3,
       "goal_difference": 6,
-      "points": 7
-    },
-    {
-      "position": 4,
-      "team_id": "fc-bayern-munchen",
-      "played": 3,
-      "won": 2,
-      "drawn": 1,
-      "lost": 0,
-      "goals_for": 7,
-      "goals_against": 2,
-      "goal_difference": 5,
       "points": 7
     },
     {
@@ -10464,13 +10464,13 @@
     {
       "position": 16,
       "team_id": "1-fc-union-berlin",
-      "played": 3,
+      "played": 4,
       "won": 0,
       "drawn": 1,
-      "lost": 2,
+      "lost": 3,
       "goals_for": 4,
-      "goals_against": 10,
-      "goal_difference": -6,
+      "goals_against": 17,
+      "goal_difference": -13,
       "points": 1
     },
     {
