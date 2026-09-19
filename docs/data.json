@@ -8,7 +8,7 @@
     "timezone": "Europe/Berlin",
     "format": "league"
   },
-  "updated_at": "2026-09-19T17:21:49Z",
+  "updated_at": "2026-09-19T19:29:47Z",
   "current_matchday": 4,
   "matchdays": [
     {
@@ -1090,8 +1090,8 @@
           "providerId": 83184,
           "matchday": 4,
           "kickoff": "2026-09-19T16:30:00Z",
-          "status": "LIVE_OR_ONGOING",
-          "statusDerived": true,
+          "status": "FINISHED",
+          "statusDerived": false,
           "home": {
             "id": "vfb-stuttgart",
             "providerId": 16,
@@ -1108,13 +1108,13 @@
           },
           "score": {
             "home": 0,
-            "away": 0
+            "away": 1
           },
           "venue": {
             "stadium": null,
             "city": null
           },
-          "lastUpdated": "2026-09-19T16:40:22Z",
+          "lastUpdated": "2026-09-19T18:23:12Z",
           "prediction": null,
           "odds": null
         },
@@ -10283,6 +10283,18 @@
   "standings": [
     {
       "position": 1,
+      "team_id": "borussia-dortmund",
+      "played": 4,
+      "won": 4,
+      "drawn": 0,
+      "lost": 0,
+      "goals_for": 9,
+      "goals_against": 2,
+      "goal_difference": 7,
+      "points": 12
+    },
+    {
+      "position": 2,
       "team_id": "fc-bayern-munchen",
       "played": 4,
       "won": 3,
@@ -10294,7 +10306,7 @@
       "points": 10
     },
     {
-      "position": 2,
+      "position": 3,
       "team_id": "sc-freiburg",
       "played": 4,
       "won": 3,
@@ -10303,18 +10315,6 @@
       "goals_for": 12,
       "goals_against": 3,
       "goal_difference": 9,
-      "points": 10
-    },
-    {
-      "position": 3,
-      "team_id": "borussia-dortmund",
-      "played": 4,
-      "won": 3,
-      "drawn": 1,
-      "lost": 0,
-      "goals_for": 8,
-      "goals_against": 2,
-      "goal_difference": 6,
       "points": 10
     },
     {
@@ -10415,18 +10415,6 @@
     },
     {
       "position": 12,
-      "team_id": "vfb-stuttgart",
-      "played": 4,
-      "won": 1,
-      "drawn": 1,
-      "lost": 2,
-      "goals_for": 6,
-      "goals_against": 8,
-      "goal_difference": -2,
-      "points": 4
-    },
-    {
-      "position": 13,
       "team_id": "1-fc-koln",
       "played": 4,
       "won": 1,
@@ -10438,7 +10426,7 @@
       "points": 4
     },
     {
-      "position": 14,
+      "position": 13,
       "team_id": "tsg-hoffenheim",
       "played": 3,
       "won": 1,
@@ -10447,6 +10435,18 @@
       "goals_for": 6,
       "goals_against": 7,
       "goal_difference": -1,
+      "points": 3
+    },
+    {
+      "position": 14,
+      "team_id": "vfb-stuttgart",
+      "played": 4,
+      "won": 1,
+      "drawn": 0,
+      "lost": 3,
+      "goals_for": 6,
+      "goals_against": 9,
+      "goal_difference": -3,
       "points": 3
     },
     {
