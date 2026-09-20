@@ -8,8 +8,8 @@
     "timezone": "Europe/Berlin",
     "format": "league"
   },
-  "updated_at": "2026-09-20T18:04:14Z",
-  "current_matchday": 4,
+  "updated_at": "2026-09-20T21:00:00Z",
+  "current_matchday": 5,
   "matchdays": [
     {
       "number": 1,
@@ -1189,8 +1189,8 @@
           "providerId": 83191,
           "matchday": 4,
           "kickoff": "2026-09-20T17:30:00Z",
-          "status": "LIVE_OR_ONGOING",
-          "statusDerived": true,
+          "status": "FINISHED",
+          "statusDerived": false,
           "home": {
             "id": "sc-paderborn-07",
             "providerId": 31,
@@ -1206,14 +1206,14 @@
             "logo": "https://i.imgur.com/gF0PfEl.png"
           },
           "score": {
-            "home": 1,
-            "away": 0
+            "home": 3,
+            "away": 1
           },
           "venue": {
             "stadium": null,
             "city": null
           },
-          "lastUpdated": "2026-09-20T18:00:04Z",
+          "lastUpdated": "2026-09-20T19:21:18Z",
           "prediction": null,
           "odds": null
         }
@@ -10415,6 +10415,18 @@
     },
     {
       "position": 12,
+      "team_id": "sc-paderborn-07",
+      "played": 4,
+      "won": 1,
+      "drawn": 1,
+      "lost": 2,
+      "goals_for": 3,
+      "goals_against": 5,
+      "goal_difference": -2,
+      "points": 4
+    },
+    {
+      "position": 13,
       "team_id": "1-fc-koln",
       "played": 4,
       "won": 1,
@@ -10426,27 +10438,15 @@
       "points": 4
     },
     {
-      "position": 13,
-      "team_id": "sc-paderborn-07",
-      "played": 4,
-      "won": 1,
-      "drawn": 1,
-      "lost": 2,
-      "goals_for": 1,
-      "goals_against": 4,
-      "goal_difference": -3,
-      "points": 4
-    },
-    {
       "position": 14,
       "team_id": "tsg-hoffenheim",
       "played": 4,
       "won": 1,
       "drawn": 0,
       "lost": 3,
-      "goals_for": 6,
-      "goals_against": 8,
-      "goal_difference": -2,
+      "goals_for": 7,
+      "goals_against": 10,
+      "goal_difference": -3,
       "points": 3
     },
     {
