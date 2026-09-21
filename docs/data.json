@@ -8,7 +8,7 @@
     "timezone": "Europe/Berlin",
     "format": "league"
   },
-  "updated_at": "2026-09-21T20:51:00Z",
+  "updated_at": "2026-09-21T23:53:55Z",
   "current_matchday": 5,
   "matchdays": [
     {
@@ -1256,6 +1256,39 @@
           "odds": null
         },
         {
+          "id": "openligadb:83197",
+          "providerId": 83197,
+          "matchday": 5,
+          "kickoff": "2026-10-10T13:30:00Z",
+          "status": "SCHEDULED",
+          "statusDerived": true,
+          "home": {
+            "id": "1-fsv-mainz-05",
+            "providerId": 81,
+            "name": "1. FSV Mainz 05",
+            "shortName": "Mainz",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_Mainz_05.svg"
+          },
+          "away": {
+            "id": "bayer-04-leverkusen",
+            "providerId": 6,
+            "name": "Bayer 04 Leverkusen",
+            "shortName": "Leverkusen",
+            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-07-03T06:03:40Z",
+          "prediction": null,
+          "odds": null
+        },
+        {
           "id": "openligadb:83194",
           "providerId": 83194,
           "matchday": 5,
@@ -1318,39 +1351,6 @@
             "city": null
           },
           "lastUpdated": "2026-07-03T06:03:29Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
-          "id": "openligadb:83197",
-          "providerId": 83197,
-          "matchday": 5,
-          "kickoff": "2026-10-10T13:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
-          "home": {
-            "id": "1-fsv-mainz-05",
-            "providerId": 81,
-            "name": "1. FSV Mainz 05",
-            "shortName": "Mainz",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_Mainz_05.svg"
-          },
-          "away": {
-            "id": "bayer-04-leverkusen",
-            "providerId": 6,
-            "name": "Bayer 04 Leverkusen",
-            "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
-          },
-          "score": {
-            "home": null,
-            "away": null
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-07-03T06:03:40Z",
           "prediction": null,
           "odds": null
         },
