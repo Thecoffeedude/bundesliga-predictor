@@ -8,7 +8,7 @@
     "timezone": "Europe/Berlin",
     "format": "league"
   },
-  "updated_at": "2026-10-09T17:22:12Z",
+  "updated_at": "2026-10-09T21:49:54Z",
   "current_matchday": 5,
   "matchdays": [
     {
@@ -1227,8 +1227,8 @@
           "providerId": 83192,
           "matchday": 5,
           "kickoff": "2026-10-09T18:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
+          "status": "FINISHED",
+          "statusDerived": false,
           "home": {
             "id": "borussia-dortmund",
             "providerId": 7,
@@ -1244,14 +1244,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg"
           },
           "score": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 2
           },
           "venue": {
             "stadium": null,
             "city": null
           },
-          "lastUpdated": "2026-09-10T15:22:25Z",
+          "lastUpdated": "2026-10-09T20:27:52Z",
           "prediction": null,
           "odds": null
         },
@@ -10284,14 +10284,14 @@
     {
       "position": 1,
       "team_id": "borussia-dortmund",
-      "played": 4,
+      "played": 5,
       "won": 4,
-      "drawn": 0,
+      "drawn": 1,
       "lost": 0,
-      "goals_for": 9,
-      "goals_against": 2,
+      "goals_for": 11,
+      "goals_against": 4,
       "goal_difference": 7,
-      "points": 12
+      "points": 13
     },
     {
       "position": 2,
@@ -10319,6 +10319,18 @@
     },
     {
       "position": 4,
+      "team_id": "sv-werder-bremen",
+      "played": 5,
+      "won": 2,
+      "drawn": 2,
+      "lost": 1,
+      "goals_for": 10,
+      "goals_against": 10,
+      "goal_difference": 0,
+      "points": 8
+    },
+    {
+      "position": 5,
       "team_id": "fc-augsburg",
       "played": 4,
       "won": 2,
@@ -10330,7 +10342,7 @@
       "points": 7
     },
     {
-      "position": 5,
+      "position": 6,
       "team_id": "bayer-04-leverkusen",
       "played": 4,
       "won": 2,
@@ -10342,7 +10354,7 @@
       "points": 7
     },
     {
-      "position": 6,
+      "position": 7,
       "team_id": "1-fsv-mainz-05",
       "played": 4,
       "won": 2,
@@ -10354,7 +10366,7 @@
       "points": 7
     },
     {
-      "position": 7,
+      "position": 8,
       "team_id": "sv-07-elversberg",
       "played": 4,
       "won": 2,
@@ -10363,18 +10375,6 @@
       "goals_for": 8,
       "goals_against": 7,
       "goal_difference": 1,
-      "points": 7
-    },
-    {
-      "position": 8,
-      "team_id": "sv-werder-bremen",
-      "played": 4,
-      "won": 2,
-      "drawn": 1,
-      "lost": 1,
-      "goals_for": 8,
-      "goals_against": 8,
-      "goal_difference": 0,
       "points": 7
     },
     {
