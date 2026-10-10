@@ -8,7 +8,7 @@
     "timezone": "Europe/Berlin",
     "format": "league"
   },
-  "updated_at": "2026-10-10T16:07:59Z",
+  "updated_at": "2026-10-10T20:14:39Z",
   "current_matchday": 5,
   "matchdays": [
     {
@@ -1425,8 +1425,8 @@
           "providerId": 83193,
           "matchday": 5,
           "kickoff": "2026-10-10T16:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
+          "status": "FINISHED",
+          "statusDerived": false,
           "home": {
             "id": "rb-leipzig",
             "providerId": 1635,
@@ -1442,14 +1442,14 @@
             "logo": "https://i.imgur.com/X8NFkOb.png"
           },
           "score": {
-            "home": null,
-            "away": null
+            "home": 6,
+            "away": 0
           },
           "venue": {
             "stadium": null,
             "city": null
           },
-          "lastUpdated": "2026-09-10T15:22:35Z",
+          "lastUpdated": "2026-10-10T18:22:34Z",
           "prediction": null,
           "odds": null
         },
@@ -10331,6 +10331,18 @@
     },
     {
       "position": 5,
+      "team_id": "rb-leipzig",
+      "played": 5,
+      "won": 3,
+      "drawn": 0,
+      "lost": 2,
+      "goals_for": 15,
+      "goals_against": 5,
+      "goal_difference": 10,
+      "points": 9
+    },
+    {
+      "position": 6,
       "team_id": "fc-augsburg",
       "played": 5,
       "won": 2,
@@ -10342,7 +10354,7 @@
       "points": 8
     },
     {
-      "position": 6,
+      "position": 7,
       "team_id": "sv-werder-bremen",
       "played": 5,
       "won": 2,
@@ -10354,7 +10366,7 @@
       "points": 8
     },
     {
-      "position": 7,
+      "position": 8,
       "team_id": "1-fsv-mainz-05",
       "played": 5,
       "won": 2,
@@ -10366,7 +10378,7 @@
       "points": 7
     },
     {
-      "position": 8,
+      "position": 9,
       "team_id": "sv-07-elversberg",
       "played": 5,
       "won": 2,
@@ -10376,18 +10388,6 @@
       "goals_against": 8,
       "goal_difference": 0,
       "points": 7
-    },
-    {
-      "position": 9,
-      "team_id": "rb-leipzig",
-      "played": 4,
-      "won": 2,
-      "drawn": 0,
-      "lost": 2,
-      "goals_for": 9,
-      "goals_against": 5,
-      "goal_difference": 4,
-      "points": 6
     },
     {
       "position": 10,
@@ -10415,18 +10415,6 @@
     },
     {
       "position": 12,
-      "team_id": "eintracht-frankfurt",
-      "played": 4,
-      "won": 1,
-      "drawn": 2,
-      "lost": 1,
-      "goals_for": 9,
-      "goals_against": 10,
-      "goal_difference": -1,
-      "points": 5
-    },
-    {
-      "position": 13,
       "team_id": "fc-schalke-04",
       "played": 4,
       "won": 1,
@@ -10435,6 +10423,18 @@
       "goals_for": 3,
       "goals_against": 4,
       "goal_difference": -1,
+      "points": 5
+    },
+    {
+      "position": 13,
+      "team_id": "eintracht-frankfurt",
+      "played": 5,
+      "won": 1,
+      "drawn": 2,
+      "lost": 2,
+      "goals_for": 9,
+      "goals_against": 16,
+      "goal_difference": -7,
       "points": 5
     },
     {
