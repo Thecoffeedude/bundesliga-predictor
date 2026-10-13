@@ -8,7 +8,7 @@
     "timezone": "Europe/Berlin",
     "format": "league"
   },
-  "updated_at": "2026-10-13T12:27:22Z",
+  "updated_at": "2026-10-13T18:01:22Z",
   "current_matchday": 6,
   "matchdays": [
     {
@@ -198,7 +198,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "score": {
             "home": 3,
@@ -394,7 +394,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "away": {
             "id": "1-fc-union-berlin",
@@ -769,7 +769,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "score": {
             "home": 2,
@@ -1130,7 +1130,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "away": {
             "id": "rb-leipzig",
@@ -1340,7 +1340,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "score": {
             "home": 3,
@@ -1767,7 +1767,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "away": {
             "id": "sc-freiburg",
@@ -2076,7 +2076,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "score": {
             "home": null,
@@ -2173,7 +2173,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "away": {
             "id": "vfb-stuttgart",
@@ -2647,7 +2647,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "score": {
             "home": null,
@@ -2777,7 +2777,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "away": {
             "id": "sc-paderborn-07",
@@ -3317,7 +3317,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "score": {
             "home": null,
@@ -3414,7 +3414,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "away": {
             "id": "borussia-monchengladbach",
@@ -3888,7 +3888,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "score": {
             "home": null,
@@ -4018,7 +4018,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "away": {
             "id": "eintracht-frankfurt",
@@ -4426,7 +4426,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "score": {
             "home": null,
@@ -4563,7 +4563,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "score": {
             "home": null,
@@ -4957,7 +4957,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "away": {
             "id": "fc-schalke-04",
@@ -5226,7 +5226,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "away": {
             "id": "sv-07-elversberg",
@@ -5667,7 +5667,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "score": {
             "home": null,
@@ -5830,7 +5830,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "away": {
             "id": "fc-augsburg",
@@ -6106,7 +6106,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "score": {
             "home": null,
@@ -6434,7 +6434,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "away": {
             "id": "1-fsv-mainz-05",
@@ -6809,7 +6809,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "score": {
             "home": null,
@@ -7005,7 +7005,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "away": {
             "id": "tsg-hoffenheim",
@@ -7347,7 +7347,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "score": {
             "home": null,
@@ -7609,7 +7609,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "away": {
             "id": "1-fc-koln",
@@ -8149,7 +8149,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "score": {
             "home": null,
@@ -8246,7 +8246,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "away": {
             "id": "borussia-dortmund",
@@ -8621,7 +8621,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "score": {
             "home": null,
@@ -8850,7 +8850,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "away": {
             "id": "sv-werder-bremen",
@@ -9192,7 +9192,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "score": {
             "home": null,
@@ -9454,7 +9454,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "away": {
             "id": "hamburger-sv",
@@ -9789,7 +9789,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "away": {
             "id": "fc-bayern-munchen",
@@ -10230,7 +10230,7 @@
             "providerId": 6,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
-            "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
           },
           "score": {
             "home": null,
@@ -10525,7 +10525,7 @@
       "providerId": 6,
       "name": "Bayer 04 Leverkusen",
       "shortName": "Leverkusen",
-      "logo": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"
+      "logo": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
     },
     "borussia-dortmund": {
       "id": "borussia-dortmund",
