@@ -8,7 +8,7 @@
     "timezone": "Europe/Berlin",
     "format": "league"
   },
-  "updated_at": "2026-10-13T23:01:04Z",
+  "updated_at": "2026-10-14T09:55:09Z",
   "current_matchday": 6,
   "matchdays": [
     {
@@ -1558,39 +1558,6 @@
           "odds": null
         },
         {
-          "id": "openligadb:83204",
-          "providerId": 83204,
-          "matchday": 6,
-          "kickoff": "2026-10-17T13:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
-          "home": {
-            "id": "1-fc-union-berlin",
-            "providerId": 80,
-            "name": "1. FC Union Berlin",
-            "shortName": "Union Berlin",
-            "logo": "https://assets.dfb.de/uploads/000/018/232/small_union-Berlin.jpg"
-          },
-          "away": {
-            "id": "borussia-dortmund",
-            "providerId": 7,
-            "name": "Borussia Dortmund",
-            "shortName": "Dortmund",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/960px-Borussia_Dortmund_logo.svg.png"
-          },
-          "score": {
-            "home": null,
-            "away": null
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-07-03T06:05:42Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
           "id": "openligadb:83206",
           "providerId": 83206,
           "matchday": 6,
@@ -1657,39 +1624,6 @@
           "odds": null
         },
         {
-          "id": "openligadb:83208",
-          "providerId": 83208,
-          "matchday": 6,
-          "kickoff": "2026-10-17T13:30:00Z",
-          "status": "SCHEDULED",
-          "statusDerived": true,
-          "home": {
-            "id": "fc-schalke-04",
-            "providerId": 9,
-            "name": "FC Schalke 04",
-            "shortName": "S04",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
-          },
-          "away": {
-            "id": "1-fsv-mainz-05",
-            "providerId": 81,
-            "name": "1. FSV Mainz 05",
-            "shortName": "Mainz",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_Mainz_05.svg"
-          },
-          "score": {
-            "home": null,
-            "away": null
-          },
-          "venue": {
-            "stadium": null,
-            "city": null
-          },
-          "lastUpdated": "2026-07-03T06:06:24Z",
-          "prediction": null,
-          "odds": null
-        },
-        {
           "id": "openligadb:83209",
           "providerId": 83209,
           "matchday": 6,
@@ -1719,6 +1653,72 @@
             "city": null
           },
           "lastUpdated": "2026-07-03T06:06:32Z",
+          "prediction": null,
+          "odds": null
+        },
+        {
+          "id": "openligadb:83204",
+          "providerId": 83204,
+          "matchday": 6,
+          "kickoff": "2026-10-17T13:30:00Z",
+          "status": "SCHEDULED",
+          "statusDerived": true,
+          "home": {
+            "id": "1-fc-union-berlin",
+            "providerId": 80,
+            "name": "1. FC Union Berlin",
+            "shortName": "Union Berlin",
+            "logo": "https://assets.dfb.de/uploads/000/018/232/small_union-Berlin.jpg"
+          },
+          "away": {
+            "id": "borussia-dortmund",
+            "providerId": 7,
+            "name": "Borussia Dortmund",
+            "shortName": "Dortmund",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/960px-Borussia_Dortmund_logo.svg.png"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-07-03T06:05:42Z",
+          "prediction": null,
+          "odds": null
+        },
+        {
+          "id": "openligadb:83208",
+          "providerId": 83208,
+          "matchday": 6,
+          "kickoff": "2026-10-17T13:30:00Z",
+          "status": "SCHEDULED",
+          "statusDerived": true,
+          "home": {
+            "id": "fc-schalke-04",
+            "providerId": 9,
+            "name": "FC Schalke 04",
+            "shortName": "S04",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
+          },
+          "away": {
+            "id": "1-fsv-mainz-05",
+            "providerId": 81,
+            "name": "1. FSV Mainz 05",
+            "shortName": "Mainz",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_Mainz_05.svg"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "venue": {
+            "stadium": null,
+            "city": null
+          },
+          "lastUpdated": "2026-07-03T06:06:24Z",
           "prediction": null,
           "odds": null
         },
